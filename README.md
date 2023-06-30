@@ -11,11 +11,14 @@ To collect data from the food delivery platform SWIGGY using web scraping and an
 
 --Methodolgy--
 
-![image](https://github.com/abhishekm9396/Swiggy-Data-Analysis-ML/assets/126942017/1d32e689-ee95-4fd5-a765-3260bf27d0ce)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250129574-1d32e689-ee95-4fd5-a765-3260bf27d0ce.png" width="500" height="300" />
 
 --Webpage--
 
-![image](https://github.com/abhishekm9396/Swiggy-Data-Analysis-ML/assets/126942017/dd6d4e1f-97a1-49b6-a7c3-88e54c1028fc)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250131305-dd6d4e1f-97a1-49b6-a7c3-88e54c1028fc.png" width="600" height="300" />
+
 
 
 --Conclusion--
