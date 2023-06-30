@@ -1,0 +1,1290 @@
+restaurant_id,name,location,rating,total_ratings,price_for_2,cusines
+354531,Burger Seigneur,Sobha Mall,4.4,1000,1200,American
+354531,Burger Seigneur,Sobha Mall,4.4,1000,1200,Continental
+428,Biryani Pot,BTM Layout,3.9,10000,500,North Indian
+428,Biryani Pot,BTM Layout,3.9,10000,500,Biryani
+5938,Burger King,Shivaji Nagar,4.1,10000,350,Burgers
+5938,Burger King,Shivaji Nagar,4.1,10000,350,American
+312849,Chopstick,R.T. Nagar,4.0,1000,350,Chinese
+312849,Chopstick,R.T. Nagar,4.0,1000,350,Thai
+30531,Hotel Empire,Hotel Empire International,4.2,10000,450,North Indian
+30531,Hotel Empire,Hotel Empire International,4.2,10000,450,Kebabs
+354884,Chinese Panda,Jeevan Bima Nagar,4.1,1000,350,Chinese
+354884,Chinese Panda,Jeevan Bima Nagar,4.1,1000,350,Thai
+62647,Pizza Hut,Mg Road,3.9,1000,500,Pizzas
+94703,Sri Punjabi Dhaba,BTM Layout,3.1,10000,300,North Indian
+94703,Sri Punjabi Dhaba,BTM Layout,3.1,10000,300,Biryani
+345726,CHINESE KITCHEN,Ejipura,4.0,1000,300,Chinese
+345726,CHINESE KITCHEN,Ejipura,4.0,1000,300,Indian
+215852,Third Wave Coffee,Indiranagar,4.4,1000,400,Beverages
+215852,Third Wave Coffee,Indiranagar,4.4,1000,400,Bakery
+210945,Royal Restaurant,Shivaji Nagar,3.9,5000,300,Chinese
+210945,Royal Restaurant,Shivaji Nagar,3.9,5000,300,North Indian
+391270,Chinese Wok,Kalyan Nagar,3.8,1000,250,Chinese
+391270,Chinese Wok,Kalyan Nagar,3.8,1000,250,Asian
+526859,Aubree,Sanjay Nagar,4.3,1000,700,Desserts
+526859,Aubree,Sanjay Nagar,4.3,1000,700,Bakery
+354939,Shanghai House,Indiranagar,3.9,1000,400,Chinese
+354939,Shanghai House,Indiranagar,3.9,1000,400,Thai
+3241,Meghana Foods,Ashok Nagar,4.5,10000,500,Biryani
+3241,Meghana Foods,Ashok Nagar,4.5,10000,500,Andhra
+482672,La Pino'z Pizza,Indiranagar,3.8,1000,500,Pizzas
+482672,La Pino'z Pizza,Indiranagar,3.8,1000,500,Pastas
+490568,NOTO - Healthy Ice Cream,Indiranagar,4.4,500,250,Desserts
+490568,NOTO - Healthy Ice Cream,Indiranagar,4.4,500,250,Ice Cream
+688356,Go Zero - Guilt Free Ice Creams,Koramangala,4.0,4,150,Ice Cream
+688356,Go Zero - Guilt Free Ice Creams,Koramangala,4.0,4,150,Desserts
+196047,New Taj Darbar,Shivaji Nagar,3.5,5000,300,Biryani
+196047,New Taj Darbar,Shivaji Nagar,3.5,5000,300,Indian
+335220,IFC,Kalyan Nagar,4.1,1000,250,Burgers
+334501,Le MoMo,Sahakara Nagar,3.8,1000,150,Chinese
+71042,NEW Mahesh friends food center,BTM Layout,3.2,5000,200,Chinese
+71042,NEW Mahesh friends food center,BTM Layout,3.2,5000,200,North Indian
+43836,McDonald's,Ashok Nagar,4.2,10000,400,Burgers
+43836,McDonald's,Ashok Nagar,4.2,10000,400,Beverages
+48581,Rotti Walla,Indiranagar,4.0,10000,200,North Indian
+48581,Rotti Walla,Indiranagar,4.0,10000,200,Chinese
+347868,KFC,Vasanth Nagar,3.6,1000,400,Burgers
+347868,KFC,Vasanth Nagar,3.6,1000,400,Biryani
+607314,Namaste,Vijayanagar,4.1,1000,100,South Indian
+607314,Namaste,Vijayanagar,4.1,1000,100,Thalis
+203015,Shapana dhaba,BTM Layout,3.4,1000,150,Chinese
+203015,Shapana dhaba,BTM Layout,3.4,1000,150,North Indian
+580691,Rollsking,Koramangala,4.1,1000,300,North Indian
+580691,Rollsking,Koramangala,4.1,1000,300,Fast Food
+252618,Al-Bek,Rajajinagar,4.0,5000,500,Arabian
+252618,Al-Bek,Rajajinagar,4.0,5000,500,Tandoor
+34269,Hamza hotel,Shivaji Nagar,4.2,10000,300,Continental
+34269,Hamza hotel,Shivaji Nagar,4.2,10000,300,Street Food
+32603,Leon's - Burgers & Wings (Leon Grill),Indiranagar,4.3,10000,300,American
+32603,Leon's - Burgers & Wings (Leon Grill),Indiranagar,4.3,10000,300,Snacks
+279735,Easy Bites by Hotel Empire,Ashok Nagar,4.1,1000,150,Snacks
+279735,Easy Bites by Hotel Empire,Ashok Nagar,4.1,1000,150,Fast Food
+571337,Sri Ram Bhojanalay,Indiranagar,3.8,100,5,North Indian
+571337,Sri Ram Bhojanalay,Indiranagar,3.8,100,5,Bengali
+63957,Madeena Hotel,Koramangala,4.1,10000,250,Biryani
+63957,Madeena Hotel,Koramangala,4.1,10000,250,Mughlai
+485771,Sree Banashankari Donne Biryani,Basaveshwara Nagar,3.7,500,250,Biryani
+485771,Sree Banashankari Donne Biryani,Basaveshwara Nagar,3.7,500,250,South Indian
+352906,Chicking,New BEL Road,4.0,1000,400,Fast Food
+352906,Chicking,New BEL Road,4.0,1000,400,American
+374455,Kwality Walls Frozen Dessert and Ice Cream Shop,BTM Layout,4.7,1000,300,Desserts
+374455,Kwality Walls Frozen Dessert and Ice Cream Shop,BTM Layout,4.7,1000,300,Ice Cream
+224868,Ambur Dum Biriyani,Indiranagar,3.8,1000,300,Indian
+224868,Ambur Dum Biriyani,Indiranagar,3.8,1000,300,Mughlai
+170539,Donne Biryani Adda,Indiranagar,3.2,500,200,Biryani
+170539,Donne Biryani Adda,Indiranagar,3.2,500,200,South Indian
+546402,Biriyani @99,Kalyan Nagar,3.0,100,200,Indian
+546402,Biriyani @99,Kalyan Nagar,3.0,100,200,Biryani
+382447,Royal Donne Biryani,HBR Layout,3.4,1000,400,Biryani
+382447,Royal Donne Biryani,HBR Layout,3.4,1000,400,Chinese
+336822,Onesta,Koramangala,3.9,500,200,Italian
+336822,Onesta,Koramangala,3.9,500,200,Desserts
+132622,Marwadi Chaat & Tiffin Services Shanti nagar,Shanti Nagar,3.7,5000,300,Rajasthani
+132622,Marwadi Chaat & Tiffin Services Shanti nagar,Shanti Nagar,3.7,5000,300,North Indian
+8244,Polar Bear Ice Cream Sundaes,Koramangala,4.4,10000,200,Ice Cream
+8244,Polar Bear Ice Cream Sundaes,Koramangala,4.4,10000,200,Desserts
+312846,Chinese BAE,R.T. Nagar,3.9,5000,400,Chinese
+312846,Chinese BAE,R.T. Nagar,3.9,5000,400,Thai
+449276,Wendy's Burgers,Basaveshwara Nagar,3.9,1000,200,Fast Food
+449276,Wendy's Burgers,Basaveshwara Nagar,3.9,1000,200,Snacks
+570178,Om Sai Ram Food Junction,Indiranagar,3.8,100,5,North Indian
+570178,Om Sai Ram Food Junction,Indiranagar,3.8,100,5,Bengali
+402919,Maharaja Military Canteen - Donne Biryani,R.T. Nagar,4.0,500,300,Biryani
+402919,Maharaja Military Canteen - Donne Biryani,R.T. Nagar,4.0,500,300,South Indian
+576839,Om meals and paratha junction,Domlur,4.0,100,5,North Indian
+576839,Om meals and paratha junction,Domlur,4.0,100,5,Thalis
+35188,Savoury Seashell Restaurant,Bannerghatta Road,4.0,10000,600,Arabian
+35188,Savoury Seashell Restaurant,Bannerghatta Road,4.0,10000,600,Indian
+360982,New kadai restaurant,R.T. Nagar,4.0,1000,600,Tandoor
+360982,New kadai restaurant,R.T. Nagar,4.0,1000,600,Biryani
+174211,Five Star Chicken,R.T. Nagar,3.0,1000,200,Snacks
+70499,Imperial Restaurant,Ashok Nagar,4.3,5000,400,Tandoor
+70499,Imperial Restaurant,Ashok Nagar,4.3,5000,400,Biryani
+436179,MAFUQ BIRYANI,BTM Layout,3.7,100,300,Biryani
+436179,MAFUQ BIRYANI,BTM Layout,3.7,100,300,Chinese
+135434,The Bowl Company,Indiranagar,4.4,10000,300,Pan-Asian
+135434,The Bowl Company,Indiranagar,4.4,10000,300,Continental
+574268,The Meals Junction,Indiranagar,3.7,100,5,North Indian
+574268,The Meals Junction,Indiranagar,3.7,100,5,Bengali
+70161,Imperio Restaurant,HRBR Layout,3.9,10000,300,Chinese
+70161,Imperio Restaurant,HRBR Layout,3.9,10000,300,South Indian
+939,Rolls On Wheels,Domlur,4.2,10000,300,Fast Food
+939,Rolls On Wheels,Domlur,4.2,10000,300,North Indian
+288644,Imperio Juice and Ice creams,HRBR Layout,4.1,1000,250,Juices
+371381,Al Taj,Koramangala,3.5,500,200,Chinese
+371381,Al Taj,Koramangala,3.5,500,200,Indian
+23423,Samosa Party,Jeevan Bima Nagar,4.3,10000,150,Fast Food
+23423,Samosa Party,Jeevan Bima Nagar,4.3,10000,150,Snacks
+35186,Savoury Restaurant,BTM Layout,4.0,10000,600,Arabian
+35186,Savoury Restaurant,BTM Layout,4.0,10000,600,Indian
+37025,7 Plates,Kalyan Nagar,4.1,10000,450,Biryani
+37025,7 Plates,Kalyan Nagar,4.1,10000,450,Chinese
+304566,SABZI AUR ROTI,BTM Layout,3.5,500,150,Indian
+496423,Dum Biryani Hub,BTM Layout,3.5,500,450,Biryani
+496423,Dum Biryani Hub,BTM Layout,3.5,500,450,North Indian
+454000,Biryani Hotel,Koramangala,3.3,100,150,Biryani
+454000,Biryani Hotel,Koramangala,3.3,100,150,Indian
+438611,TANDOORWAALA,Koramangala,3.2,500,300,Thalis
+438611,TANDOORWAALA,Koramangala,3.2,500,300,Indian
+362852,Craving O Clock,BTM Layout,4.3,1000,300,Snacks
+362852,Craving O Clock,BTM Layout,4.3,1000,300,Beverages
+335221,Biryani Mount,Kalyan Nagar,3.9,500,400,Biryani
+335221,Biryani Mount,Kalyan Nagar,3.9,500,400,Indian
+685759,The Rameshwaram Cafe,J.P. Nagar,4.5,100,250,South Indian
+218496,89 Express Dhaba,BTM Layout,3.3,100,89,North Indian
+218496,89 Express Dhaba,BTM Layout,3.3,100,89,Rajasthani
+115730,Biryani Khazana,Indiranagar,3.8,1000,250,Biryani
+657599,Pizza Town,Shivaji Nagar,3.3,20,400,Pizzas
+263493,Sri Ram Bhojanalay,Mathikere,3.8,1000,10,American
+263493,Sri Ram Bhojanalay,Mathikere,3.8,1000,10,Biryani
+353226,Rajasthani Taj restaurant,BTM Layout,2.6,1000,200,North Indian
+353226,Rajasthani Taj restaurant,BTM Layout,2.6,1000,200,Beverages
+4737,Shetty's Lunch Home,Dinnur Main Road,3.9,10000,296,North Indian
+4737,Shetty's Lunch Home,Dinnur Main Road,3.9,10000,296,Mangalorean
+5312,Meat and Eat,Indiranagar,4.0,10000,300,Biryani
+42060,Sharief Bhai,Koramangala,4.1,10000,400,Mughlai
+42060,Sharief Bhai,Koramangala,4.1,10000,400,Biryani
+155541,Sreeraj Lassi Bar 1973s,Shivaji Nagar,4.3,500,250,Desserts
+155541,Sreeraj Lassi Bar 1973s,Shivaji Nagar,4.3,500,250,Juices
+139114,Main Lassi Shop,Central Bangalore,3.8,1000,250,Beverages
+139114,Main Lassi Shop,Central Bangalore,3.8,1000,250,Juices
+18464,Fresh Bites,Indiranagar,4.0,10000,200,North Indian
+18464,Fresh Bites,Indiranagar,4.0,10000,200,South Indian
+531381,Olio - The Wood Fired Pizzeria,Indiranagar,4.1,1000,300,Pizzas
+531381,Olio - The Wood Fired Pizzeria,Indiranagar,4.1,1000,300,Italian
+636231,Indian Drinks by Living Food,J.P. Nagar,4.0,4,300,Juices
+195274,Lassi and Juice,Shivaji Nagar,3.9,1000,150,Continental
+195274,Lassi and Juice,Shivaji Nagar,3.9,1000,150,Desserts
+495055,Afghani Tandoori Hub,BTM Layout,3.4,500,250,Biryani
+495055,Afghani Tandoori Hub,BTM Layout,3.4,500,250,Chinese
+640595,The Pastry Zone,Koramangala,4.1,100,450,Desserts
+640595,The Pastry Zone,Koramangala,4.1,100,450,Bakery
+186088,The Biryani Life,Vasanth Nagar,3.7,1000,250,Biryani
+186088,The Biryani Life,Vasanth Nagar,3.7,1000,250,Mughlai
+537139,NARMADA CHAIN OF RESTAURANT,Koramangala,4.3,1000,500,Biryani
+537139,NARMADA CHAIN OF RESTAURANT,Koramangala,4.3,1000,500,Andhra
+571338,The Punjabi kitchen,Indiranagar,3.8,50,5,North Indian
+571338,The Punjabi kitchen,Indiranagar,3.8,50,5,Bengali
+410242,Wok China,Indiranagar,3.7,100,300,Chinese
+32729,Tandoori Merchant,BTM Layout,4.1,500,100,Andhra
+32729,Tandoori Merchant,BTM Layout,4.1,500,100,Biryani
+415463,Kolkata Durbar,BTM Layout,3.8,1000,300,Biryani
+415463,Kolkata Durbar,BTM Layout,3.8,1000,300,Indian
+359700,Biryani Bazaar,Kalyan Nagar,3.5,100,400,Biryani
+359700,Biryani Bazaar,Kalyan Nagar,3.5,100,400,Indian
+382567,Zinger crunch,HBR Layout,4.2,50,200,Indian
+440349,Sultan dum biryani,Indiranagar,3.8,100,300,Biryani
+440349,Sultan dum biryani,Indiranagar,3.8,100,300,Desserts
+657861,The Belgian Waffle Co.,R.T. Nagar,4.5,100,200,Waffle
+657861,The Belgian Waffle Co.,R.T. Nagar,4.5,100,200,Desserts
+359881,Andhra Meals Express,HSR Layout,4.4,5000,300,Andhra
+359881,Andhra Meals Express,HSR Layout,4.4,5000,300,Biryani
+314691,Momoz,R.T. Nagar,4.0,5000,350,Chinese
+314691,Momoz,R.T. Nagar,4.0,5000,350,Thai
+38745,Swad Restaurant,Nagawara,3.6,1000,20,South Indian
+38745,Swad Restaurant,Nagawara,3.6,1000,20,Chinese
+574255,Lucknow Express,Indiranagar,3.8,100,10,North Indian
+574255,Lucknow Express,Indiranagar,3.8,100,10,Bengali
+562630,temperature,Indiranagar,4.0,100,400,Beverages
+562630,temperature,Indiranagar,4.0,100,400,American
+39166,Punjabi Dhaba,Indiranagar,3.6,10000,200,North Indian
+39166,Punjabi Dhaba,Indiranagar,3.6,10000,200,Punjabi
+337989,Alba Cafe,Kalyan Nagar,3.5,100,400,Indian
+653780,Baba Ka Khana,BTM Layout,4.2,50,300,Indian
+653780,Baba Ka Khana,BTM Layout,4.2,50,300,Chinese
+293023,Istah - The Mediterranean Way,Koramangala,4.3,10000,250,Arabian
+293023,Istah - The Mediterranean Way,Koramangala,4.3,10000,250,Biryani
+18975,Nandhana Palace,Rajajinagar,4.2,10000,500,Biryani
+18975,Nandhana Palace,Rajajinagar,4.2,10000,500,Andhra
+23846,Domino's Pizza,Richmond Town,4.2,10000,400,Pizzas
+23846,Domino's Pizza,Richmond Town,4.2,10000,400,Italian
+323390,Lajawaab,R.T. Nagar,3.8,1000,350,North Indian
+323390,Lajawaab,R.T. Nagar,3.8,1000,350,Chinese
+44462,XO Belgian Waffle,Koramangala,4.3,10000,250,Desserts
+335382,Coorg Spicy Kadai,HBR Layout,3.6,100,400,South Indian
+335382,Coorg Spicy Kadai,HBR Layout,3.6,100,400,Biryani
+360031,The royal burgers,New BEL Road,3.9,50,200,Snacks
+360031,The royal burgers,New BEL Road,3.9,50,200,Combo
+285175,Thalairaj Biryani,Indiranagar,4.2,1000,300,Andhra
+285175,Thalairaj Biryani,Indiranagar,4.2,1000,300,Biryani
+368635,Chinese Trail,R.T. Nagar,4.2,1000,350,Chinese
+368635,Chinese Trail,R.T. Nagar,4.2,1000,350,Thai
+232568,Oven Story Pizza,Seshadripuram,4.0,500,400,Pizzas
+232568,Oven Story Pizza,Seshadripuram,4.0,500,400,Pastas
+530040,Meghduth Biryanis,Sanjay Nagar,4.0,100,400,Biryani
+530040,Meghduth Biryanis,Sanjay Nagar,4.0,100,400,Andhra
+657064,Pizza House,Shivaji Nagar,2.9,20,400,Pizzas
+29784,CakeZone,Indiranagar,4.3,10000,200,Bakery
+29784,CakeZone,Indiranagar,4.3,10000,200,Desserts
+519477,Ghar Wali Khana,BTM Layout,3.9,500,250,North Indian
+519477,Ghar Wali Khana,BTM Layout,3.9,500,250,Chinese
+606525,Lassi Shop,BTM Layout,3.2,50,150,Beverages
+606525,Lassi Shop,BTM Layout,3.2,50,150,Italian
+281221,BIRIYANI HOUSE,BTM Layout,2.9,100,350,Biryani
+415042,Royal Biryani Kitchen,BTM Layout,3.2,100,250,Biryani
+415042,Royal Biryani Kitchen,BTM Layout,3.2,100,250,Chinese
+546530,Biryani leaf,BTM Layout,3.8,20,300,Biryani
+546530,Biryani leaf,BTM Layout,3.8,20,300,Chinese
+162807,Indori Poha,Koramangala,4.1,1000,200,North Indian
+162807,Indori Poha,Koramangala,4.1,1000,200,Snacks
+564812,NORTH KA THADKA,BTM Layout,4.2,100,299,North Indian
+564812,NORTH KA THADKA,BTM Layout,4.2,100,299,Indian
+531382,Crusto's - Cheese Burst Pizza,Indiranagar,4.1,500,300,Pizzas
+531382,Crusto's - Cheese Burst Pizza,Indiranagar,4.1,500,300,Italian
+459064,Crispy Crunchy Chick,Koramangala,2.9,20,200,Arabian
+459064,Crispy Crunchy Chick,Koramangala,2.9,20,200,Snacks
+19096,Faasos - Wraps & Rolls,Vasanth Nagar,4.3,5000,200,Kebabs
+19096,Faasos - Wraps & Rolls,Vasanth Nagar,4.3,5000,200,Fast Food
+279829,Empire Juices and Desserts,Ashok Nagar,2.8,20,200,Ice Cream
+279829,Empire Juices and Desserts,Ashok Nagar,2.8,20,200,Juices
+342840,Andhra Delight,Koramangala,4.0,1000,300,Biryani
+342840,Andhra Delight,Koramangala,4.0,1000,300,South Indian
+328971,Chuckling Chinese,BTM Layout,4.0,1000,300,Chinese
+371178,Mallu family Restaurant,BTM Layout,3.6,500,200,Indian
+371178,Mallu family Restaurant,BTM Layout,3.6,500,200,Chinese
+345404,Midnight Rascals Pizza - MRP,BTM Layout,3.4,20,300,Pizzas
+345404,Midnight Rascals Pizza - MRP,BTM Layout,3.4,20,300,Snacks
+50310,Swiss Cream - Ice Creams and More,Old Madras Road,4.0,10000,250,Desserts
+50310,Swiss Cream - Ice Creams and More,Old Madras Road,4.0,10000,250,Ice Cream
+230753,Delhi Jaipur Express Kitchen,BTM Layout,3.4,100,250,North Indian
+666520,Grill Shawarma Cafe,BTM Layout,3.8,20,150,Snacks
+666520,Grill Shawarma Cafe,BTM Layout,3.8,20,150,Beverages
+402710,WarmOven Cake & Desserts,Vasanth Nagar,3.8,500,200,Bakery
+402710,WarmOven Cake & Desserts,Vasanth Nagar,3.8,500,200,Desserts
+124023,Daily Chinese,BTM Layout,2.7,1000,200,Chinese
+40100,Ghar Ki Rasoi,Indiranagar,3.8,1000,300,Chinese
+40100,Ghar Ki Rasoi,Indiranagar,3.8,1000,300,Italian
+398320,Biryani Lovers Joint,Mathikere,3.6,100,350,Biryani
+398320,Biryani Lovers Joint,Mathikere,3.6,100,350,Indian
+1010,Khan Saheb Grills and Rolls,Indiranagar,4.3,10000,300,Tandoor
+1010,Khan Saheb Grills and Rolls,Indiranagar,4.3,10000,300,Mughlai
+328786,Snacks Corner,Indiranagar,3.9,1000,350,Snacks
+328786,Snacks Corner,Indiranagar,3.9,1000,350,North Indian
+442789,The Dessert Heaven - Pure Veg,Indiranagar,4.5,100,200,Bakery
+442789,The Dessert Heaven - Pure Veg,Indiranagar,4.5,100,200,Desserts
+381557,punjab time,BTM Layout,3.2,100,150,North Indian
+663798,Burger In Moon,BTM Layout,4.1,20,250,Burgers
+663798,Burger In Moon,BTM Layout,4.1,20,250,Fast Food
+61790,Sardarji Londonwaley,Koramangala,3.8,10000,350,Indian
+61790,Sardarji Londonwaley,Koramangala,3.8,10000,350,North Indian
+538507,Cake House,Kalyan Nagar,3.4,20,250,Bakery
+111524,Yumlane Pizza,Koramangala,3.7,1000,300,Pizzas
+111524,Yumlane Pizza,Koramangala,3.7,1000,300,Beverages
+641391,Pizza point,Banaswadi,3.3,20,200,Pizzas
+641391,Pizza point,Banaswadi,3.3,20,200,Burgers
+252607,Baskin Robbins Ice Cream Desserts,Malleshwaram,4.4,100,250,Desserts
+252607,Baskin Robbins Ice Cream Desserts,Malleshwaram,4.4,100,250,Ice Cream
+577017,Crispy Studio,J.P. Nagar,4.3,1000,400,Burgers
+577017,Crispy Studio,J.P. Nagar,4.3,1000,400,Biryani
+654841,HFC Call Me Kabab,J.P. Nagar,3.7,50,300,Biryani
+654841,HFC Call Me Kabab,J.P. Nagar,3.7,50,300,North Indian
+303980,The Bangalore Creamery,Indiranagar,4.0,1000,250,Bakery
+303980,The Bangalore Creamery,Indiranagar,4.0,1000,250,Desserts
+369460,Keventers - Milkshakes & Desserts,Rajajinagar,4.1,1000,200,Beverages
+369460,Keventers - Milkshakes & Desserts,Rajajinagar,4.1,1000,200,Ice Cream
+693687,Donne Biryani Mane,BTM Layout,2.7,20,299,Biryani
+693687,Donne Biryani Mane,BTM Layout,2.7,20,299,South Indian
+392828,Big Bowl (Big Bowl Company),Adugodi,3.8,1000,250,North Indian
+392828,Big Bowl (Big Bowl Company),Adugodi,3.8,1000,250,Chinese
+40098,Thottathil Restaurant,BTM Layout,3.9,10000,200,South Indian
+421765,Karavali Family Restaurant,Brigade Road,4.0,500,200,Mangalorean
+421765,Karavali Family Restaurant,Brigade Road,4.0,500,200,Seafood
+3209,Pathaan Sir,Koramangala,3.8,50,200,Fast Food
+3209,Pathaan Sir,Koramangala,3.8,50,200,North Indian
+326865,Anand Sweets & Savouries,New BEL Road,4.4,1000,150,Sweets
+326865,Anand Sweets & Savouries,New BEL Road,4.4,1000,150,North Indian
+337745,ARS JUICE JUNCTION,Indiranagar,4.0,100,200,Beverages
+337745,ARS JUICE JUNCTION,Indiranagar,4.0,100,200,Snacks
+403197,The Dessert Zone,Vasanth Nagar,3.5,20,200,Bakery
+403197,The Dessert Zone,Vasanth Nagar,3.5,20,200,Desserts
+661002,Shawarma On Wheels,R.T. Nagar,4.0,100,400,Arabian
+661002,Shawarma On Wheels,R.T. Nagar,4.0,100,400,Snacks
+331722,The Firewood Pizza,Tavarekere,3.7,500,150,Italian
+331722,The Firewood Pizza,Tavarekere,3.7,500,150,Pizzas
+589412,No.10 Fort Cochin,Indiranagar,4.2,500,500,Seafood
+589412,No.10 Fort Cochin,Indiranagar,4.2,500,500,Kerala
+47626,Beijing Bites,Royal Plaza,4.2,10000,450,Chinese
+333774,Darjeeling Hot Momos,BTM Layout,4.3,1000,150,Chinese
+658363,Pizza Box,Shivaji Nagar,4.0,4,400,Pizzas
+32780,Late Night,J.P. Nagar,4.2,10000,300,Biryani
+32780,Late Night,J.P. Nagar,4.2,10000,300,North Indian
+681873,Arbabi,BTM Layout,4.5,50,250,Biryani
+681873,Arbabi,BTM Layout,4.5,50,250,North Indian
+231499,Biryani Crafts,BTM Layout,3.9,1000,250,Biryani
+231499,Biryani Crafts,BTM Layout,3.9,1000,250,North Indian
+649410,Old Town Pizzeria,BTM Layout,3.8,50,300,Pizzas
+649410,Old Town Pizzeria,BTM Layout,3.8,50,300,Italian
+483491,Singh Ji Food,BTM Layout,3.9,50,250,North Indian
+303270,Malabar Cafe,Koramangala,3.7,1000,349,Kerala
+303270,Malabar Cafe,Koramangala,3.7,1000,349,South Indian
+408976,Bombay Kulfi,Kalyan Nagar,4.3,500,100,Desserts
+408976,Bombay Kulfi,Kalyan Nagar,4.3,500,100,Ice Cream
+206339,Midnight Eats,Shivaji Nagar,3.8,20,300,Continental
+206339,Midnight Eats,Shivaji Nagar,3.8,20,300,North Indian
+693761,Mantra's Donne Biryani,BTM Layout,3.7,20,300,Biryani
+693761,Mantra's Donne Biryani,BTM Layout,3.7,20,300,Kebabs
+641704,Sweet Bake - Cake & Desserts,Koramangala,4.4,50,150,Bakery
+641704,Sweet Bake - Cake & Desserts,Koramangala,4.4,50,150,Desserts
+95907,Maggi N Maggi House,Bilekahalli,3.7,1000,100,Chinese
+95907,Maggi N Maggi House,Bilekahalli,3.7,1000,100,Beverages
+14195,Cream Stone Ice Cream,Koramangala,3.9,10000,250,Ice Cream
+14195,Cream Stone Ice Cream,Koramangala,3.9,10000,250,Desserts
+422128,Baba Ganoush,Koramangala,4.3,100,300,Arabian
+422128,Baba Ganoush,Koramangala,4.3,100,300,Snacks
+672074,Subway,Sobha Mall,4.0,50,350,Salads
+672074,Subway,Sobha Mall,4.0,50,350,Snacks
+10823,California Burrito,Sri Avenue,4.4,10000,250,Mexican
+10823,California Burrito,Sri Avenue,4.4,10000,250,American
+457308,Bakingo,Indiranagar,4.3,1000,300,Bakery
+457308,Bakingo,Indiranagar,4.3,1000,300,Desserts
+700148,Swaad Kitchen Mart,Rajajinagar,4.0,4,200,Pastas
+700148,Swaad Kitchen Mart,Rajajinagar,4.0,4,200,Chinese
+382537,Singh Da Punjabi Dhaba,Koramangala,3.7,1000,200,Punjabi
+382537,Singh Da Punjabi Dhaba,Koramangala,3.7,1000,200,Tandoor
+644617,Beyond The Crust - BTC,BTM Layout,4.0,4,250,Desserts
+439967,Tamilian Lunch House Since 1973,Koramangala,4.1,100,250,North Indian
+439967,Tamilian Lunch House Since 1973,Koramangala,4.1,100,250,Biryani
+281220,TASTE OF BIHAR,BTM Layout,3.6,100,300,Indian
+2824,Fanoos,Richmond Road,4.1,10000,300,Biryani
+2824,Fanoos,Richmond Road,4.1,10000,300,Tandoor
+7069,Cafe Coffee Day,Indiranagar,4.2,5000,300,Beverages
+7069,Cafe Coffee Day,Indiranagar,4.2,5000,300,Snacks
+62939,LunchBox - Meals and Thalis,Vasanth Nagar,4.2,5000,200,Biryani
+62939,LunchBox - Meals and Thalis,Vasanth Nagar,4.2,5000,200,North Indian
+31627,Hyderabad Biryaani House,Koramangala,4.0,10000,350,Biryani
+31627,Hyderabad Biryaani House,Koramangala,4.0,10000,350,Mughlai
+252213,Lassi Corner,Koramangala,3.2,100,199,Beverages
+252213,Lassi Corner,Koramangala,3.2,100,199,Ice Cream
+591223,Bihar ki rasoi,Indiranagar,3.7,100,10,Indian
+591223,Bihar ki rasoi,Indiranagar,3.7,100,10,Chinese
+414546,CALCUTTA STREET,BTM Layout,3.9,50,350,Bengali
+414546,CALCUTTA STREET,BTM Layout,3.9,50,350,Biryani
+310548,Oven Theory Pizza - OTP,BTM Layout,4.1,500,150,Pizzas
+310548,Oven Theory Pizza - OTP,BTM Layout,4.1,500,150,Italian
+501638,IDC Kitchen,Residency Road,4.4,500,200,South Indian
+501638,IDC Kitchen,Residency Road,4.4,500,200,North Indian
+390829,The Best Snacks Adda,New BEL Road,3.7,100,20,South Indian
+390829,The Best Snacks Adda,New BEL Road,3.7,100,20,Biryani
+39376,"Frozen Bottle - Milkshakes, Desserts And Ice Cream",Ashok Nagar,4.2,1000,250,Beverages
+39376,"Frozen Bottle - Milkshakes, Desserts And Ice Cream",Ashok Nagar,4.2,1000,250,Desserts
+640857,Dum Burger,Koramangala,4.0,4,175,Burgers
+383618,Double scoop,Mathikere,4.2,100,300,Desserts
+383618,Double scoop,Mathikere,4.2,100,300,Ice Cream
+381565,GHAR WALA KHANA,BTM Layout,3.5,100,150,Indian
+485078,Momo Zone - The Momo Company,Vasanth Nagar,2.8,50,200,Chinese
+485078,Momo Zone - The Momo Company,Vasanth Nagar,2.8,50,200,Tibetan
+308509,Zomoz - The Momo Company,Indiranagar,4.2,1000,250,Tibetan
+308509,Zomoz - The Momo Company,Indiranagar,4.2,1000,250,Chinese
+186503,Habibi Falafel,Indiranagar,4.4,5000,300,Middle Eastern
+186503,Habibi Falafel,Indiranagar,4.4,5000,300,Lebanese
+602557,World Of Chinese,Indiranagar,4.1,50,300,Chinese
+602557,World Of Chinese,Indiranagar,4.1,50,300,Indian
+429201,ViVidha Biryani Joint,Yeshwantpur,3.8,100,350,Indian
+429201,ViVidha Biryani Joint,Yeshwantpur,3.8,100,350,Biryani
+168421,Shakeshack,Domlur,4.2,500,300,Bakery
+168421,Shakeshack,Domlur,4.2,500,300,Desserts
+442031,Keventers Ice Cream,Rajajinagar,3.9,100,200,Ice Cream
+442031,Keventers Ice Cream,Rajajinagar,3.9,100,200,Desserts
+335155,Imperio Combo King,Kalyan Nagar,4.4,50,250,North Indian
+475800,24/7 JUICE N SNACKS HUB,Koramangala,3.2,100,200,Fast Food
+475800,24/7 JUICE N SNACKS HUB,Koramangala,3.2,100,200,Juices
+543235,Biryani Blues,Indiranagar,4.1,500,400,Biryani
+543235,Biryani Blues,Indiranagar,4.1,500,400,Hyderabadi
+557842,CHINESE HUT,Koramangala,3.5,50,200,Chinese
+3434,Nandhini Deluxe,St. Marks Road,4.2,100,500,Andhra
+3434,Nandhini Deluxe,St. Marks Road,4.2,100,500,Biryani
+641632,The Celebration Cakes And Desserts,Koramangala,4.2,50,150,Bakery
+641632,The Celebration Cakes And Desserts,Koramangala,4.2,50,150,Desserts
+3013,Backyard Burgers and Grill,Indiranagar,4.0,100,250,Burgers
+3013,Backyard Burgers and Grill,Indiranagar,4.0,100,250,Snacks
+15173,Behrouz Biryani,Indiranagar,4.2,5000,500,Biryani
+15173,Behrouz Biryani,Indiranagar,4.2,5000,500,Mughlai
+530041,Dragon's Kitchen,Sanjay Nagar,3.8,100,300,Chinese
+530041,Dragon's Kitchen,Sanjay Nagar,3.8,100,300,Fast Food
+402728,Sundae Everyday Ice Creams,Vasanth Nagar,3.5,100,150,Beverages
+402728,Sundae Everyday Ice Creams,Vasanth Nagar,3.5,100,150,Ice Cream
+303982,Sinful Desserts,Anjaneya Complex,4.1,1000,250,Bakery
+303982,Sinful Desserts,Anjaneya Complex,4.1,1000,250,Desserts
+353607,Delhi Dinner Darbar,Mathikere,4.1,100,300,Indian
+353607,Delhi Dinner Darbar,Mathikere,4.1,100,300,Chinese
+645294,Asha Sweet Center,Vasanth Nagar,4.5,50,250,Sweets
+645294,Asha Sweet Center,Vasanth Nagar,4.5,50,250,Desserts
+418389,Auntie Fung's,Indiranagar,4.1,1000,600,Chinese
+418389,Auntie Fung's,Indiranagar,4.1,1000,600,Thai
+546131,Wat-a-Burger! - India ka Burger,Indiranagar,3.7,500,250,Burgers
+546131,Wat-a-Burger! - India ka Burger,Indiranagar,3.7,500,250,Fast Food
+433561,Giani Ice Cream,Koramangala,4.4,100,300,Ice Cream
+433561,Giani Ice Cream,Koramangala,4.4,100,300,Desserts
+478708,The Burger Shack,BTM Layout,2.9,20,250,American
+318287,ROMEO LASSI SHOP,Central Bangalore,3.5,100,250,Beverages
+318287,ROMEO LASSI SHOP,Central Bangalore,3.5,100,250,Ice Cream
+155402,The Good Bowl,Vasanth Nagar,4.0,500,400,Biryani
+155402,The Good Bowl,Vasanth Nagar,4.0,500,400,North Indian
+619503,Litti Heist,Koramangala,4.2,1000,200,Indian
+619503,Litti Heist,Koramangala,4.2,1000,200,Beverages
+240148,Gudbud,Koramangala,4.4,5000,300,Ice Cream
+240148,Gudbud,Koramangala,4.4,5000,300,Desserts
+676,Chai Point,Koramangala,4.4,10000,150,Bakery
+676,Chai Point,Koramangala,4.4,10000,150,Beverages
+409923,Kaati Zone Rolls & Wraps,Vasanth Nagar,3.6,100,150,Fast Food
+409923,Kaati Zone Rolls & Wraps,Vasanth Nagar,3.6,100,150,Bengali
+403216,Burger It Up,Vasanth Nagar,3.2,100,150,Burgers
+403216,Burger It Up,Vasanth Nagar,3.2,100,150,Beverages
+302789,Nadeem's Kitchen,Nagawara,2.3,50,500,Biryani
+588012,SMOOR,Lavelle Road,4.5,100,450,Asian
+588012,SMOOR,Lavelle Road,4.5,100,450,Desserts
+277696,Roti Curry & Co,Halasuru,3.6,100,200,Indian
+258360,jai bhavani dhaba,Indiranagar,3.5,20,250,Indian
+402714,Indiana Burgers,Vasanth Nagar,3.7,100,150,Burgers
+402714,Indiana Burgers,Vasanth Nagar,3.7,100,150,American
+415469,KOLKATA BIRYANI POINT,BTM Layout,3.6,100,350,Biryani
+415469,KOLKATA BIRYANI POINT,BTM Layout,3.6,100,350,Indian
+526157,Pizza O'Clock,BTM Layout,3.8,100,298,Pizzas
+526157,Pizza O'Clock,BTM Layout,3.8,100,298,Fast Food
+506322,Louis Burger,Indiranagar,4.3,1000,600,Burgers
+506322,Louis Burger,Indiranagar,4.3,1000,600,Fast Food
+342567,Phoenix pizza,J.P. Nagar,3.7,100,200,Pizzas
+303425,Hungry Habibi,BTM Layout,4.0,1000,220,Arabian
+303425,Hungry Habibi,BTM Layout,4.0,1000,220,Lebanese
+368035,CHAI DAYS,Koramangala,4.4,1000,200,Bakery
+368035,CHAI DAYS,Koramangala,4.4,1000,200,Beverages
+654965,Hyderabadi Biryani Hub,BTM Layout,4.0,4,250,Biryani
+654965,Hyderabadi Biryani Hub,BTM Layout,4.0,4,250,Indian
+2843,Tadka Singh,Church Street,4.3,10000,300,Punjabi
+2843,Tadka Singh,Church Street,4.3,10000,300,North Indian
+676284,Rolls Namita Ki,BTM Layout,4.0,4,250,Snacks
+676284,Rolls Namita Ki,BTM Layout,4.0,4,250,Beverages
+405430,Apna Ghar,Jayanagar,3.6,50,200,Punjabi
+405430,Apna Ghar,Jayanagar,3.6,50,200,North Indian
+367311,Chicken County Restaurant,Dairy Circle,4.3,100,350,Chinese
+367311,Chicken County Restaurant,Dairy Circle,4.3,100,350,Grill
+376169,Shri Nellore Mess,Kalyan Nagar,3.4,500,450,Biryani
+502861,Ice Cream by the Scoop,Koramangala,4.3,50,150,Ice Cream
+566433,Faasos' Signature Wraps & Rolls,Vasanth Nagar,4.0,4,350,Fast Food
+566433,Faasos' Signature Wraps & Rolls,Vasanth Nagar,4.0,4,350,Snacks
+490627,8055 cafe,Sanjay Nagar,4.1,100,200,Fast Food
+490627,8055 cafe,Sanjay Nagar,4.1,100,200,Juices
+413945,Monster Maggi,New BEL Road,3.5,100,200,Fast Food
+413945,Monster Maggi,New BEL Road,3.5,100,200,Beverages
+394229,Rolls & Bowls Company,Adugodi,3.6,100,250,Indian
+394229,Rolls & Bowls Company,Adugodi,3.6,100,250,North Indian
+495680,Dosa Camp,BTM Layout,2.5,20,200,South Indian
+495680,Dosa Camp,BTM Layout,2.5,20,200,Beverages
+295133,McDonald's Gourmet Burger Collection,Koramangala,4.3,1000,600,Burgers
+295133,McDonald's Gourmet Burger Collection,Koramangala,4.3,1000,600,Beverages
+578637,Sweet Bake-Cake And Desserts,Malleshwaram,4.2,100,150,Bakery
+473807,Food Ford Kitchen,BTM Layout,4.0,100,199,Indian
+473807,Food Ford Kitchen,BTM Layout,4.0,100,199,Pastas
+153876,The Kolkata Katiroll,Indiranagar,4.2,1000,200,Snacks
+153876,The Kolkata Katiroll,Indiranagar,4.2,1000,200,Beverages
+248787,Wow! China,HSR Layout,3.9,1000,300,Tibetan
+248787,Wow! China,HSR Layout,3.9,1000,300,Chinese
+224603,The Khichadi Factory,Indiranagar,4.0,1000,300,North Indian
+50018,Krispy Kreme,Bannerghatta Road,4.6,10000,170,Desserts
+50018,Krispy Kreme,Bannerghatta Road,4.6,10000,170,Beverages
+377045,Coorg pork station,Kalyan Nagar,3.7,500,400,Biryani
+377045,Coorg pork station,Kalyan Nagar,3.7,500,400,Chinese
+323,Madurai Idly Shop (80 ft. Road),Indiranagar,4.2,10000,150,South Indian
+480488,High Ultra Express Pizza,Indiranagar,4.4,50,200,Pizzas
+32730,High N Hungry,Madiwala,4.0,10000,350,Fast Food
+32730,High N Hungry,Madiwala,4.0,10000,350,Chinese
+503320,LICIOUS PIZZA,J.P. Nagar,4.1,50,300,Pizzas
+437208,Phulka,Koramangala,3.7,50,100,Indian
+437208,Phulka,Koramangala,3.7,50,100,North Indian
+101751,Fiero! Pizzeria,Koramangala,4.1,5000,400,Pizzas
+101751,Fiero! Pizzeria,Koramangala,4.1,5000,400,Italian
+313761,Cafe Nature,New Thippasandara,4.2,500,300,Beverages
+313761,Cafe Nature,New Thippasandara,4.2,500,300,Snacks
+387468,The Breakfast Nook,HSR Layout,4.3,1000,300,American
+387468,The Breakfast Nook,HSR Layout,4.3,1000,300,Continental
+61785,Punjabi Nawabi,Koramangala,3.7,5000,350,Chinese
+61785,Punjabi Nawabi,Koramangala,3.7,5000,350,North Indian
+170536,Fresh Bowls,Indiranagar,4.0,1000,200,North Indian
+170536,Fresh Bowls,Indiranagar,4.0,1000,200,Chinese
+335383,Banashankari Military Hotel,HBR Layout,3.5,500,250,Biryani
+335383,Banashankari Military Hotel,HBR Layout,3.5,500,250,Snacks
+342205,Foodpecker,Koramangala,4.1,100,300,North Indian
+342205,Foodpecker,Koramangala,4.1,100,300,Biryani
+519561,Ambur Bismillah Biryani,Nagawara,4.0,4,350,Biryani
+519561,Ambur Bismillah Biryani,Nagawara,4.0,4,350,Indian
+524455,Mr. Chow,Ulsoor,4.0,4,350,Chinese
+581615,GFC Kebabs & Biryani,Indiranagar,3.1,20,200,Kebabs
+581615,GFC Kebabs & Biryani,Indiranagar,3.1,20,200,Biryani
+35894,Sweet Truth - Cake and Desserts,Vasanth Nagar,4.2,500,450,Snacks
+35894,Sweet Truth - Cake and Desserts,Vasanth Nagar,4.2,500,450,Bakery
+381549,marwadi Tadka wala,BTM Layout,3.5,50,150,Thalis
+381549,marwadi Tadka wala,BTM Layout,3.5,50,150,North Indian
+652758,Hot Burger Company,Koramangala,4.0,4,180,Bakery
+652758,Hot Burger Company,Koramangala,4.0,4,180,Snacks
+592278,Pizza Kingdom,Indiranagar,4.1,50,300,Pizzas
+592278,Pizza Kingdom,Indiranagar,4.1,50,300,Burgers
+375041,Andhra Gunpowder,Koramangala,4.3,1000,350,Andhra
+375041,Andhra Gunpowder,Koramangala,4.3,1000,350,Biryani
+151155,North Indian spice,Indiranagar,3.5,100,200,North Indian
+156877,Nature fresh ice & spice,BTM Layout,3.6,500,100,Ice Cream
+156877,Nature fresh ice & spice,BTM Layout,3.6,500,100,Indian
+500351,Burger Man,Indiranagar,4.3,100,400,American
+500351,Burger Man,Indiranagar,4.3,100,400,Continental
+447948,Chai Sutta Cafe,Kalyan Nagar,4.2,50,300,Beverages
+447948,Chai Sutta Cafe,Kalyan Nagar,4.2,50,300,Juices
+376978,Coorg yellow bowl,Kalyan Nagar,3.6,50,400,Chinese
+531532,Combo King,HBR Layout,3.7,100,200,South Indian
+513515,Saleem Bawarchi,Nagawara,4.0,4,500,Biryani
+513515,Saleem Bawarchi,Nagawara,4.0,4,500,Kebabs
+382444,Punjabi Thandoor Dhaaba,HBR Layout,3.0,50,400,South Indian
+382444,Punjabi Thandoor Dhaaba,HBR Layout,3.0,50,400,Indian
+24755,Vinny's,New BEL Road,4.0,5000,350,Pizzas
+24755,Vinny's,New BEL Road,4.0,5000,350,Italian
+444687,PARATHA WALI,BTM Layout,3.8,100,300,Chinese
+444687,PARATHA WALI,BTM Layout,3.8,100,300,North Indian
+318486,ICE CREAM SHOP,Central Bangalore,3.3,50,300,Beverages
+318486,ICE CREAM SHOP,Central Bangalore,3.3,50,300,Ice Cream
+557828,ADIL BIRYANI HOUSE,Koramangala,3.5,50,200,Biryani
+557828,ADIL BIRYANI HOUSE,Koramangala,3.5,50,200,Hyderabadi
+534654,The Licious Kitchen,Koramangala,4.2,1000,350,Kebabs
+534654,The Licious Kitchen,Koramangala,4.2,1000,350,Snacks
+487329,Chinese Monk,Armane Nagar,4.0,100,300,Chinese
+487329,Chinese Monk,Armane Nagar,4.0,100,300,Asian
+246151,MAEDAH,Koramangala,3.4,500,450,Arabian
+246151,MAEDAH,Koramangala,3.4,500,450,Tandoor
+334172,Rajasthani Dhaba,Shanti Nagar,3.9,1000,200,North Indian
+334172,Rajasthani Dhaba,Shanti Nagar,3.9,1000,200,Rajasthani
+167158,Bowl 99,Adugodi,3.8,1000,200,Indian
+167158,Bowl 99,Adugodi,3.8,1000,200,North Indian
+326529,SLAY Coffee Bar,St. Marks Road,4.1,100,200,Beverages
+326529,SLAY Coffee Bar,St. Marks Road,4.1,100,200,Desserts
+320676,TIPSY LASSI SHOP,Central Bangalore,3.5,20,250,Desserts
+320676,TIPSY LASSI SHOP,Central Bangalore,3.5,20,250,Ice Cream
+641015,Green Dot Pizza,New Bel Road,4.0,4,300,Pizzas
+641015,Green Dot Pizza,New Bel Road,4.0,4,300,Beverages
+507336,Food Adda,Koramangala,3.7,50,250,Burgers
+507336,Food Adda,Koramangala,3.7,50,250,Pizzas
+327826,NIGHT OUT,BTM Layout,3.7,100,400,Chinese
+486908,New Taj Dum Biryani,Halasuru,3.1,20,400,North Indian
+486908,New Taj Dum Biryani,Halasuru,3.1,20,400,Continental
+429119,PC Biryani Joint,Yeshwantpur,4.0,50,350,Indian
+429119,PC Biryani Joint,Yeshwantpur,4.0,50,350,Biryani
+3454,Lazeez,Koramangala,4.2,10000,500,North Indian
+3454,Lazeez,Koramangala,4.2,10000,500,Mughlai
+62430,Dosa Chicken & Tiffins,HSR Layout,4.3,10000,200,South Indian
+62430,Dosa Chicken & Tiffins,HSR Layout,4.3,10000,200,Andhra
+527139,SHAFIZ LAJAWAAB,R.T. Nagar,3.7,100,350,Tandoor
+527139,SHAFIZ LAJAWAAB,R.T. Nagar,3.7,100,350,Biryani
+671305,Shawarma on Wheels,Indiranagar,4.2,100,400,Arabian
+671305,Shawarma on Wheels,Indiranagar,4.2,100,400,Snacks
+70251,Starbucks Coffee,Sadashiv Nagar,4.2,1000,400,Beverages
+70251,Starbucks Coffee,Sadashiv Nagar,4.2,1000,400,Cafe
+491592,Yummy Parathas Only,Yeshwantpur,3.0,20,5,South Indian
+491592,Yummy Parathas Only,Yeshwantpur,3.0,20,5,Bengali
+609969,Gobblers Rolls & Bowls,Tavarekere,3.7,50,300,North Indian
+609969,Gobblers Rolls & Bowls,Tavarekere,3.7,50,300,Fast Food
+434918,Falhari - A Fruitful Habit,Tavarekere,4.2,1000,300,Salads
+434918,Falhari - A Fruitful Habit,Tavarekere,4.2,1000,300,Juices
+568703,Baking Bad  - Pizza Delivery,Indiranagar,4.3,500,650,Pizzas
+568703,Baking Bad  - Pizza Delivery,Indiranagar,4.3,500,650,Burgers
+206535,Momos Mania,Koramangala,3.9,100,150,Chinese
+206535,Momos Mania,Koramangala,3.9,100,150,Fast Food
+203828,Fritz Haber Ice Creams,Koramangala,4.1,100,300,Desserts
+203828,Fritz Haber Ice Creams,Koramangala,4.1,100,300,Ice Cream
+570388,Sunny's Chicken Wingss!,BTM Layout,3.8,50,400,American
+570388,Sunny's Chicken Wingss!,BTM Layout,3.8,50,400,Fast Food
+303446,Waffl'd,Indiranagar,3.9,500,200,Bakery
+303446,Waffl'd,Indiranagar,3.9,500,200,Desserts
+376324,The Brooklyn Creamery - Healthy Ice Cream,Seshadripuram,4.5,100,200,Desserts
+376324,The Brooklyn Creamery - Healthy Ice Cream,Seshadripuram,4.5,100,200,Ice Cream
+350560,Ambur Star Briyani Since 1890,J.P. Nagar,4.2,5000,199,North Indian
+350560,Ambur Star Briyani Since 1890,J.P. Nagar,4.2,5000,199,Chinese
+295869,Chandni Chowk,Indiranagar,3.2,500,150,North Indian
+295869,Chandni Chowk,Indiranagar,3.2,500,150,Sweets
+668306,The Shake Stories,Koramangala,4.0,4,250,Beverages
+668306,The Shake Stories,Koramangala,4.0,4,250,Snacks
+520814,Winners Pizza (Fresh Dough),New Bel Road,3.4,50,300,Pizzas
+520814,Winners Pizza (Fresh Dough),New Bel Road,3.4,50,300,Italian
+161544,Punjabi tashan,BTM Layout,4.0,500,350,North Indian
+487975,Burmuda Biryani,BTM Layout,3.2,20,250,Biryani
+487975,Burmuda Biryani,BTM Layout,3.2,20,250,Fast Food
+336463,Chinese Bistro,BTM Layout,3.7,50,200,Chinese
+336463,Chinese Bistro,BTM Layout,3.7,50,200,Biryani
+5544,Hotel Godavari,BTM Layout,3.9,5000,400,North Indian
+5544,Hotel Godavari,BTM Layout,3.9,5000,400,Chinese
+304563,chole bhatura and parathas,BTM Layout,3.1,500,150,North Indian
+548535,Biryani Square,BTM Layout,3.4,50,250,Biryani
+548535,Biryani Square,BTM Layout,3.4,50,250,Snacks
+444346,Umpire chicken county,Richmond Road,2.8,20,300,Chinese
+444346,Umpire chicken county,Richmond Road,2.8,20,300,Tandoor
+513811,Ambur Biryani Darbar,Nagawara,4.0,4,500,Biryani
+513811,Ambur Biryani Darbar,Nagawara,4.0,4,500,Kebabs
+662517,Vp Biryani House,J.P. Nagar,4.0,4,400,Biryani
+662517,Vp Biryani House,J.P. Nagar,4.0,4,400,Kebabs
+430620,Joey's Pizza Express Delivery,Indiranagar,3.9,100,250,Italian
+330839,RNR Biryani - Taste of 1953,J.P. Nagar,4.2,5000,350,Biryani
+330839,RNR Biryani - Taste of 1953,J.P. Nagar,4.2,5000,350,South Indian
+341321,Biryani Rooh-e-khaas,Indiranagar,4.0,4,200,North Indian
+341321,Biryani Rooh-e-khaas,Indiranagar,4.0,4,200,Biryani
+694455,Food Artist,Sanjay Nagar,4.0,4,250,Fast Food
+694455,Food Artist,Sanjay Nagar,4.0,4,250,Chinese
+337778,Brother's Cafe,Indiranagar,3.1,50,300,Beverages
+337778,Brother's Cafe,Indiranagar,3.1,50,300,Juices
+254050,Chinese Bowl,Banashankari,4.0,1000,350,Chinese
+254050,Chinese Bowl,Banashankari,4.0,1000,350,Thai
+513501,Boom Boom Biryani,Nagawara,4.0,4,500,Biryani
+513501,Boom Boom Biryani,Nagawara,4.0,4,500,Kebabs
+34380,Firangi Bake,Vasanth Nagar,4.2,1000,400,Pizzas
+34380,Firangi Bake,Vasanth Nagar,4.2,1000,400,Pastas
+432536,Raidan,R.T. Nagar,3.9,1000,400,Arabian
+432536,Raidan,R.T. Nagar,3.9,1000,400,Chinese
+655135,Pabrai's Fresh And Naturelle Ice Cream,Koramangala,4.0,20,250,Ice Cream
+655135,Pabrai's Fresh And Naturelle Ice Cream,Koramangala,4.0,20,250,Waffle
+346383,V Cafe - Meals By PVR,Adugodi,3.6,50,400,Pizzas
+346383,V Cafe - Meals By PVR,Adugodi,3.6,50,400,Snacks
+219257,Kingsway restaurant,Shivaji Nagar,3.4,20,250,North Indian
+219257,Kingsway restaurant,Shivaji Nagar,3.4,20,250,Chinese
+414593,Iceberg Organic Icecreams,Vasanth Nagar,4.1,20,200,Indian
+559618,Login2Eat,Koramangala,3.8,20,300,North Indian
+559618,Login2Eat,Koramangala,3.8,20,300,Snacks
+690389,The Brownie Co.,J.P. Nagar,4.0,4,400,Desserts
+690389,The Brownie Co.,J.P. Nagar,4.0,4,400,Beverages
+671978,House of Punjab,J.P. Nagar,4.3,50,300,North Indian
+671978,House of Punjab,J.P. Nagar,4.3,50,300,Chinese
+588893,SSS Kitchen,Kalyan Nagar,4.0,4,598,North Indian
+588893,SSS Kitchen,Kalyan Nagar,4.0,4,598,Chinese
+671609,The Momos Platter,BTM Layout,4.0,4,150,Chinese
+33734,Svadu Pure Ghee Sweets,BTM Layout,4.1,100,200,Desserts
+33734,Svadu Pure Ghee Sweets,BTM Layout,4.1,100,200,Sweets
+591181,Madame Michelle's Sandwich Co.,Kalyan Nagar,3.8,100,400,French
+591181,Madame Michelle's Sandwich Co.,Kalyan Nagar,3.8,100,400,Italian
+561987,Nirula's,Indiranagar,4.0,500,500,Pizzas
+561987,Nirula's,Indiranagar,4.0,500,500,Burgers
+402716,Slurpy Shakes,Vasanth Nagar,2.9,50,150,Beverages
+402716,Slurpy Shakes,Vasanth Nagar,2.9,50,150,Ice Cream
+515250,ROTI WALI,BTM Layout,3.7,100,250,North Indian
+263637,Pure Veg Meals by Lunchbox,Vasanth Nagar,4.0,100,200,Biryani
+263637,Pure Veg Meals by Lunchbox,Vasanth Nagar,4.0,100,200,North Indian
+92379,Shree Taaza Thindi,Indiranagar,3.7,1000,150,South Indian
+92379,Shree Taaza Thindi,Indiranagar,3.7,1000,150,Snacks
+624364,Stop Drop & Rolls,Halasuru,4.4,20,250,Snacks
+624364,Stop Drop & Rolls,Halasuru,4.4,20,250,Continental
+505,Bite Me Cupcakes,Domlur,4.0,5000,150,Bakery
+505,Bite Me Cupcakes,Domlur,4.0,5000,150,Desserts
+518295,A1 Ambur Biryani Since 2012,R.T. Nagar,1.7,20,350,Biryani
+518295,A1 Ambur Biryani Since 2012,R.T. Nagar,1.7,20,350,Kebabs
+324316,Say Noodles,Armane Nagar,4.0,1000,300,Chinese
+324316,Say Noodles,Armane Nagar,4.0,1000,300,Thai
+332432,Between 2 Buns,Mathikere,3.5,500,200,American
+332432,Between 2 Buns,Mathikere,3.5,500,200,Pizzas
+512497,BRILLIANT BIRYANI,Nagawara,4.0,4,200,Biryani
+512497,BRILLIANT BIRYANI,Nagawara,4.0,4,200,Kebabs
+22037,Wow! Momo,Brigade Road,4.1,5000,250,Tibetan
+22037,Wow! Momo,Brigade Road,4.1,5000,250,Healthy Food
+609688,VB Iyengar Cake House,BTM Layout,4.0,4,399,Bakery
+609688,VB Iyengar Cake House,BTM Layout,4.0,4,399,Desserts
+505840,Ghee Tadka Khichdi,Koramangala,4.3,100,300,Indian
+505840,Ghee Tadka Khichdi,Koramangala,4.3,100,300,Home Food
+495977,The Dragon House,Ashok Nagar,2.6,20,200,Chinese
+581477,Cheesecakes By CakeZone,Indiranagar,4.4,20,200,Desserts
+581477,Cheesecakes By CakeZone,Indiranagar,4.4,20,200,Bakery
+417374,Fries Box,Koramangala,3.5,20,250,Snacks
+417374,Fries Box,Koramangala,3.5,20,250,American
+656367,Little Owl Chinese,Sanjay Nagar,4.0,4,200,Indian
+414745,AMBUR BIRIYANI HOUSE,BTM Layout,2.8,50,250,Biryani
+153731,Dindigul Thalappakatti,Jayanagar,3.9,5000,550,Biryani
+153731,Dindigul Thalappakatti,Jayanagar,3.9,5000,550,Barbecue
+375382,Artinci - Indulge Guilt Free!,Indiranagar,4.2,100,200,Ice Cream
+375382,Artinci - Indulge Guilt Free!,Indiranagar,4.2,100,200,Healthy Food
+389687,PIZZAAJ,Indiranagar,3.8,100,150,Pizzas
+389687,PIZZAAJ,Indiranagar,3.8,100,150,Italian
+634064,Mc Crunchies,Kalyan Nagar,4.0,20,200,Indian
+381196,THE PIZZA FOLKS,Koramangala,4.0,100,200,Pizzas
+381196,THE PIZZA FOLKS,Koramangala,4.0,100,200,Snacks
+45757,Pipabu,Koramangala,4.0,10000,250,Pizzas
+45757,Pipabu,Koramangala,4.0,10000,250,Italian
+593204,PRIYA GRAND,Basaveshwara Nagar,2.7,20,100,South Indian
+206578,Gully Foods,Koramangala,4.2,20,250,Snacks
+56786,Samosa Singh,Indiranagar,4.0,5000,150,North Indian
+56786,Samosa Singh,Indiranagar,4.0,5000,150,Snacks
+213595,New Chawla Chicken,BTM Layout,3.3,100,400,Chinese
+213595,New Chawla Chicken,BTM Layout,3.3,100,400,Indian
+476175,Heritage Burger,BTM Layout,3.5,20,250,American
+476175,Heritage Burger,BTM Layout,3.5,20,250,Fast Food
+301056,Kabab Magic Roll,Richmond Road,3.5,20,400,Snacks
+577976,THE BROWNIE CIRCLES,Indiranagar,4.3,100,250,Bakery
+577976,THE BROWNIE CIRCLES,Indiranagar,4.3,100,250,Desserts
+368671,Desi Chinese Center,Indiranagar,3.8,50,300,Chinese
+538467,Nomad Pizza- Traveller Series,Indiranagar,4.3,500,850,Pizzas
+46650,Richie Rich,Race Course Road,4.3,10000,500,Desserts
+46650,Richie Rich,Race Course Road,4.3,10000,500,Snacks
+268053,Breakfast Wala,Indiranagar,3.9,500,150,North Indian
+358179,Foodeez zone,New BEL Road,4.0,4,300,Indian
+358179,Foodeez zone,New BEL Road,4.0,4,300,Chinese
+507739,Paratha Wala,Basavanagudi,4.4,20,199,North Indian
+486896,Savera Taj Family Restaurant,Halasuru,3.5,20,400,North Indian
+486896,Savera Taj Family Restaurant,Halasuru,3.5,20,400,Continental
+254048,Momo Bowl,BTM Layout,4.0,1000,350,Chinese
+254048,Momo Bowl,BTM Layout,4.0,1000,350,Thai
+151036,Punjabi Unplugged,Koramangala,3.8,1000,300,North Indian
+151036,Punjabi Unplugged,Koramangala,3.8,1000,300,Chinese
+330454,Chai Nagri,Koramangala,3.8,100,300,Snacks
+330454,Chai Nagri,Koramangala,3.8,100,300,Beverages
+496227,Kitchens of Punjab,Central Bangalore,4.0,500,500,Punjabi
+496227,Kitchens of Punjab,Central Bangalore,4.0,500,500,North Indian
+470971,Punjabi Thali,BTM Layout,2.5,50,350,North Indian
+470971,Punjabi Thali,BTM Layout,2.5,50,350,Chinese
+462488,Cafe Ni-O-Ven,BTM Layout,3.7,100,300,Pastas
+462488,Cafe Ni-O-Ven,BTM Layout,3.7,100,300,Continental
+326762,Dhaba Co.,Ashok Nagar,3.7,50,650,North Indian
+94692,Waffle Head,BTM Layout,4.1,1000,300,Desserts
+94692,Waffle Head,BTM Layout,4.1,1000,300,Beverages
+397618,Biryani Trip - Destination Hyderabad,Shivaji Nagar,4.3,100,400,Biryani
+397618,Biryani Trip - Destination Hyderabad,Shivaji Nagar,4.3,100,400,Hyderabadi
+431627,MH 12 Pav Bhaji,Rishab Arcade,4.1,1000,250,Fast Food
+431627,MH 12 Pav Bhaji,Rishab Arcade,4.1,1000,250,Beverages
+452480,Jaffer Bhai Biryani,Koramangala,2.9,100,200,Biryani
+452480,Jaffer Bhai Biryani,Koramangala,2.9,100,200,Arabian
+559737,Fresh crunch pizza,Indiranagar,4.1,20,400,Pizzas
+559737,Fresh crunch pizza,Indiranagar,4.1,20,400,Burgers
+156540,Pizza Theatre,Kammanahalli,3.5,100,400,Italian
+156540,Pizza Theatre,Kammanahalli,3.5,100,400,American
+694305,Crispy Twist,BTM Layout,4.0,4,300,Burgers
+429111,Mojito Hub,Yeshwantpur,4.0,4,350,Indian
+503635,Bengali Tadka (Taste Of Bengal),HBR Layout,3.3,100,200,Bengali
+503635,Bengali Tadka (Taste Of Bengal),HBR Layout,3.3,100,200,Thalis
+615226,Hive Honey Cake,Shivaji Nagar,4.6,100,200,Bakery
+615226,Hive Honey Cake,Shivaji Nagar,4.6,100,200,Desserts
+402707,Cakery and bready,Koramangala,4.0,4,30,Snacks
+402707,Cakery and bready,Koramangala,4.0,4,30,Bakery
+407831,The Handi Crust,HALASURU,4.2,500,350,Indian
+407831,The Handi Crust,HALASURU,4.2,500,350,Chaat
+683637,Sharmaji'S Chole Bhature,J.P. Nagar,3.1,20,350,North Indian
+683637,Sharmaji'S Chole Bhature,J.P. Nagar,3.1,20,350,Fast Food
+17711,Deshi Fusion Pizza,Indiranagar,4.0,1000,500,Italian
+17711,Deshi Fusion Pizza,Indiranagar,4.0,1000,500,Pizzas
+417711,crunch pizza express delivery,Indiranagar,4.3,100,300,Italian
+417711,crunch pizza express delivery,Indiranagar,4.3,100,300,Pizzas
+154020,Udta Punjab Cafe,Shanti Nagar,3.8,100,150,North Indian
+591215,The Food Club,Indiranagar,3.2,20,10,Indian
+591215,The Food Club,Indiranagar,3.2,20,10,Thalis
+704125,AFC -  The American fried Chicken,BTM Layout,4.0,4,499,Burgers
+704125,AFC -  The American fried Chicken,BTM Layout,4.0,4,499,North Indian
+468378,Wrap World,BTM Layout,3.9,100,150,Snacks
+687158,Ovenfresh Cakes and Desserts,Indiranagar,5.0,20,200,Italian
+50710,Wood Fire Pizza,Kammanahalli,3.5,1000,400,Italian
+50710,Wood Fire Pizza,Kammanahalli,3.5,1000,400,Pizzas
+341417,Big Bang Waffles,Indiranagar,4.1,100,350,Desserts
+341417,Big Bang Waffles,Indiranagar,4.1,100,350,Beverages
+468296,TRC - The Roll Company,Koramangala,4.0,4,300,Snacks
+692387,Chinese The Dhabha,J.P. Nagar,4.0,4,350,Indian
+510328,TrueCakes - Fresh | Eggless | Cakes,Domlur,4.3,100,300,Bakery
+510328,TrueCakes - Fresh | Eggless | Cakes,Domlur,4.3,100,300,Desserts
+339514,City  Shanghai Center,Indiranagar,4.0,50,300,Chinese
+430936,Emirates Restaurant,Kammanahalli,3.7,100,400,Biryani
+430936,Emirates Restaurant,Kammanahalli,3.7,100,400,Chinese
+676039,Biryani Day,Koramangala,4.0,4,350,Biryani
+676039,Biryani Day,Koramangala,4.0,4,350,Fast Food
+694084,Prasuma Momo Kitchen,Rajajinagar,4.6,20,129,Pan-Asian
+694084,Prasuma Momo Kitchen,Rajajinagar,4.6,20,129,Snacks
+343299,Chai Corner,Indiranagar,4.0,100,200,North Indian
+343299,Chai Corner,Indiranagar,4.0,100,200,Snacks
+261897,TENDER COCONUT,BTM Layout,4.2,100,200,Juices
+49054,Agarwal Ke Parathe,Bilekahalli,3.6,5000,250,North Indian
+49054,Agarwal Ke Parathe,Bilekahalli,3.6,5000,250,Punjabi
+318480,REEZ RESTAURANT,Central Bangalore,3.8,20,300,Chinese
+318480,REEZ RESTAURANT,Central Bangalore,3.8,20,300,Biryani
+217505,Chaayos Chai+Snacks=Relax,Indiranagar,4.3,10000,250,Bakery
+217505,Chaayos Chai+Snacks=Relax,Indiranagar,4.3,10000,250,Beverages
+513004,Biryani Lovers,Nagawara,4.0,4,500,Biryani
+513004,Biryani Lovers,Nagawara,4.0,4,500,Kebabs
+372902,The Sugar Free Keto Kafe - Artinci,Indiranagar,4.2,100,200,Ice Cream
+372902,The Sugar Free Keto Kafe - Artinci,Indiranagar,4.2,100,200,Healthy Food
+371642,Mad Over Donuts,Indiranagar,4.0,500,200,Desserts
+371642,Mad Over Donuts,Indiranagar,4.0,500,200,Sweets
+2832,Lakeview Milkbar,Kannan Building,4.2,10000,450,Desserts
+2832,Lakeview Milkbar,Kannan Building,4.2,10000,450,Ice Cream
+402783,Kouzina Kafe - The Food Court,Vasanth Nagar,3.5,50,150,Bakery
+402783,Kouzina Kafe - The Food Court,Vasanth Nagar,3.5,50,150,Desserts
+560152,Sandwich N Burger,BTM Layout,4.0,4,200,Bakery
+560152,Sandwich N Burger,BTM Layout,4.0,4,200,Beverages
+530679,Manchurian Bites,BTM Layout,4.0,4,300,Chinese
+530679,Manchurian Bites,BTM Layout,4.0,4,300,Indian
+364786,Tasty Food of Kolkata,Yeshwantpur,4.0,4,300,North Indian
+364786,Tasty Food of Kolkata,Yeshwantpur,4.0,4,300,Biryani
+510228,Frosty Frills,Koramangala,4.0,100,100,Desserts
+510228,Frosty Frills,Koramangala,4.0,100,100,Ice Cream
+318481,MAGGI BABA,Central Bangalore,3.1,20,250,Beverages
+318481,MAGGI BABA,Central Bangalore,3.1,20,250,Ice Cream
+318485,Breakfast,Central Bangalore,3.2,20,100,Juices
+318485,Breakfast,Central Bangalore,3.2,20,100,Healthy Food
+690684,Burgerama,Koramangala,4.7,50,700,American
+402678,Mahi Bakehouse,Adugodi,4.0,4,1200,Bakery
+290059,Ministry of Ice Creams,Koramangala,3.7,100,200,Ice Cream
+290059,Ministry of Ice Creams,Koramangala,3.7,100,200,Desserts
+318476,DILWALE RESTAURANT,Central Bangalore,3.6,50,300,Juices
+318476,DILWALE RESTAURANT,Central Bangalore,3.6,50,300,Beverages
+591327,Desi Chulha,Indiranagar,3.2,50,10,South Indian
+591327,Desi Chulha,Indiranagar,3.2,50,10,Biryani
+659499,Coffee and Cream,R.T. Nagar,4.0,4,150,Beverages
+659499,Coffee and Cream,R.T. Nagar,4.0,4,150,Fast Food
+402719,Cupcake Bliss Cake & Desserts,Vasanth Nagar,3.7,100,200,Bakery
+402719,Cupcake Bliss Cake & Desserts,Vasanth Nagar,3.7,100,200,Desserts
+475806,Rollicious,Koramangala,3.4,50,150,Fast Food
+475806,Rollicious,Koramangala,3.4,50,150,Chinese
+698933,China Town,R.T. Nagar,4.0,4,300,Chinese
+405432,Bhojnayala,Jayanagar,4.0,4,200,Punjabi
+405432,Bhojnayala,Jayanagar,4.0,4,200,North Indian
+328099,Ancient CHINESE HOUSE,BTM Layout,4.0,1000,300,Chinese
+50571,Taj Hotel,Shivaji Nagar,4.1,1000,500,Chinese
+50571,Taj Hotel,Shivaji Nagar,4.1,1000,500,Mughlai
+553423,Dawat Durbar,Shivaji Nagar,4.0,20,200,North Indian
+553423,Dawat Durbar,Shivaji Nagar,4.0,20,200,Chinese
+485632,Amma's Kitchen,Koramangala,4.0,4,250,Chinese
+513495,Ambur Biryani Town,Nagawara,4.0,4,500,Biryani
+513495,Ambur Biryani Town,Nagawara,4.0,4,500,Kebabs
+27752,The Paramount Hotel,Domlur,3.8,5000,300,Indian
+27752,The Paramount Hotel,Domlur,3.8,5000,300,Biryani
+444178,Magnolia Bakery,Indiranagar,4.6,5000,500,Bakery
+444178,Magnolia Bakery,Indiranagar,4.6,5000,500,Desserts
+314879,limelight-Royal Orchid Hotel,Royal Orchid Hotel,4.0,100,250,North Indian
+314879,limelight-Royal Orchid Hotel,Royal Orchid Hotel,4.0,100,250,Indian
+511697,Hyderabadi Mandi House,R.T. Nagar,1.9,20,350,Biryani
+511697,Hyderabadi Mandi House,R.T. Nagar,1.9,20,350,Kebabs
+520804,Starboy Pizza & Shakes,New Bel Road,3.6,50,300,Pizzas
+520804,Starboy Pizza & Shakes,New Bel Road,3.6,50,300,Italian
+362029,USTAD BIRIYANI,HSR Layout,4.1,100,250,Biryani
+362029,USTAD BIRIYANI,HSR Layout,4.1,100,250,Hyderabadi
+429366,Maison Du Brownie and Cheese Cake,Indiranagar,4.5,500,200,Desserts
+540631,Pizza Castle,J.P. Nagar,4.0,4,450,Pizzas
+540631,Pizza Castle,J.P. Nagar,4.0,4,450,Snacks
+520210,Ambur 5 Star Biryani,R.T. Nagar,1.9,50,350,Biryani
+520210,Ambur 5 Star Biryani,R.T. Nagar,1.9,50,350,Snacks
+675986,Leaf Biryani,Koramangala,4.0,4,350,Biryani
+675986,Leaf Biryani,Koramangala,4.0,4,350,Indian
+151430,Midnight Pizza And Food,Indiranagar,3.7,100,200,Pizzas
+151430,Midnight Pizza And Food,Indiranagar,3.7,100,200,Chinese
+437093,WoodFire Pizza House,Koramangala,4.2,100,200,Pizzas
+437093,WoodFire Pizza House,Koramangala,4.2,100,200,Beverages
+583172,Pizza Party,Indiranagar,3.7,20,150,Pizzas
+429202,Shakes Sup,Sanjay Nagar,4.0,4,350,Beverages
+300696,Knight Bite,BTM Layout,3.8,500,300,American
+300696,Knight Bite,BTM Layout,3.8,500,300,Chinese
+517887,Miami shakes & More,Koramangala,3.4,50,300,Beverages
+517887,Miami shakes & More,Koramangala,3.4,50,300,Desserts
+439628,FB Cafe By Frozen Bottle,Monarch Plaza Comforts,4.3,50,500,Desserts
+439628,FB Cafe By Frozen Bottle,Monarch Plaza Comforts,4.3,50,500,Pizzas
+672534,Amore Gelato - Italian Ice Cream,Central Bangalore,4.0,4,200,Ice Cream
+589161,THE ROOK CAFE,J.P. Nagar,4.0,4,500,Cafe
+589161,THE ROOK CAFE,J.P. Nagar,4.0,4,500,Chinese
+697864,Malnad Donne Biryani,Basaveshwara Nagar,3.9,20,350,Biryani
+697864,Malnad Donne Biryani,Basaveshwara Nagar,3.9,20,350,Chinese
+524452,MR. MOMO,Ulsoor,4.0,4,250,Chinese
+437260,Chunkies - Burgers & Fried Chicken,HBR Layout,4.1,50,250,Burgers
+437260,Chunkies - Burgers & Fried Chicken,HBR Layout,4.1,50,250,Fast Food
+333105,Rolls & Bowls By FEEDX,New BEL Road,3.3,100,300,Fast Food
+60068,RK Fresh Food,BTM Layout,3.3,1000,200,Continental
+60068,RK Fresh Food,BTM Layout,3.3,1000,200,American
+329424,Thali 99,Indiranagar,3.8,100,250,Thalis
+603204,Dairy Day Ice Creams,Indiranagar,4.0,4,200,Ice Cream
+603204,Dairy Day Ice Creams,Indiranagar,4.0,4,200,Desserts
+662443,Delhi Kulfi & Faluda,Koramangala,4.0,4,200,Ice Cream
+662443,Delhi Kulfi & Faluda,Koramangala,4.0,4,200,Desserts
+630884,Samosa Theory,Indiranagar,4.3,50,100,Snacks
+630884,Samosa Theory,Indiranagar,4.3,50,100,Beverages
+472857,CupCake Noggins,J.P. Nagar,4.0,50,200,Desserts
+472857,CupCake Noggins,J.P. Nagar,4.0,50,200,Snacks
+527896,The Aroma Fox,Adugodi,3.4,20,250,North Indian
+527896,The Aroma Fox,Adugodi,3.4,20,250,Chinese
+650052,Mowrya Biryani House,BTM Layout,4.9,20,400,Biryani
+650052,Mowrya Biryani House,BTM Layout,4.9,20,400,Chinese
+662110,Crazy N Juicy,J.P. Nagar,4.0,4,180,Beverages
+564033,Wing Stop,Koramangala,4.0,4,200,American
+641021,Wack Waffles & Brownies,New Bel Road,4.0,4,250,Waffle
+641021,Wack Waffles & Brownies,New Bel Road,4.0,4,250,Desserts
+320252,Social,Bommanahalli,4.2,1000,600,North Indian
+320252,Social,Bommanahalli,4.2,1000,600,Chinese
+231794,Paratha House,Shanti Nagar,3.7,20,200,North Indian
+690335,Woods And Brixx Pizza,J.P. Nagar,4.0,4,400,Italian
+690335,Woods And Brixx Pizza,J.P. Nagar,4.0,4,400,Pizzas
+276149,ICE CORNER,Koramangala,3.4,100,200,Desserts
+276149,ICE CORNER,Koramangala,3.4,100,200,Beverages
+530675,Roti.com,BTM Layout,4.0,4,300,North Indian
+530675,Roti.com,BTM Layout,4.0,4,300,Indian
+214928,The Golden Thali,Indiranagar,3.9,1000,200,Indian
+214928,The Golden Thali,Indiranagar,3.9,1000,200,North Indian
+668339,Wingspot,Koramangala,4.0,4,350,Indian
+564031,BREAD AND KNIVES,Koramangala,4.0,4,200,Snacks
+335651,Wok & Talk,Koramangala,4.0,4,300,Chinese
+562899,Prezzed Juicery,Indiranagar,4.7,100,300,Juices
+562899,Prezzed Juicery,Indiranagar,4.7,100,300,Beverages
+429515,Dessert Home,Kammanahalli,4.0,4,300,Desserts
+429515,Dessert Home,Kammanahalli,4.0,4,300,Beverages
+515046,Mandi Box,Nagawara,4.0,4,500,Biryani
+515046,Mandi Box,Nagawara,4.0,4,500,Kebabs
+515731,Lazeez Hyderabadi Biryani,Nagawara,4.0,4,350,Biryani
+515731,Lazeez Hyderabadi Biryani,Nagawara,4.0,4,350,Snacks
+673444,Bandipura Donne Biriyani,Kalyan Nagar,3.9,20,600,Biryani
+673444,Bandipura Donne Biriyani,Kalyan Nagar,3.9,20,600,Chinese
+410783,The Cheesecake Co,Indiranagar,3.8,100,400,Bakery
+410783,The Cheesecake Co,Indiranagar,3.8,100,400,Desserts
+303981,The Brownie Co.,Indiranagar,4.0,100,350,Bakery
+303981,The Brownie Co.,Indiranagar,4.0,100,350,Desserts
+375045,Paratha Envy,Koramangala,4.4,1000,249,North Indian
+669643,The Sandwich Factory,Koramangala,4.0,4,250,Fast Food
+405926,QISSA,Indiranagar,4.2,1000,600,Arabian
+405926,QISSA,Indiranagar,4.2,1000,600,Lebanese
+515425,NNC DINE,Indiranagar,4.0,4,250,Chinese
+515425,NNC DINE,Indiranagar,4.0,4,250,Snacks
+675954,Bhatinda Tandoor,Koramangala,4.0,4,350,Indian
+575160,Veg Daawat by Behrouz,Seshadripuram,4.0,4,500,Biryani
+575160,Veg Daawat by Behrouz,Seshadripuram,4.0,4,500,Mughlai
+358613,Dr.Gelato,Indiranagar,4.3,100,300,Desserts
+555143,Wok noodles,BTM Layout,4.1,50,299,Chinese
+555143,Wok noodles,BTM Layout,4.1,50,299,Oriental
+669082,Firangi Falooda,Kalyan Nagar,4.3,20,150,Beverages
+669082,Firangi Falooda,Kalyan Nagar,4.3,20,150,Fast Food
+684909,Andhra Spicy Kadai,Kalyan Nagar,4.0,4,300,Andhra
+684909,Andhra Spicy Kadai,Kalyan Nagar,4.0,4,300,Chinese
+605167,ITC Fabelle Chocolates,Indiranagar,4.7,20,600,Bakery
+605167,ITC Fabelle Chocolates,Indiranagar,4.7,20,600,Desserts
+381550,Rajasthani Tadka Wala,BTM Layout,3.5,100,150,Thalis
+381550,Rajasthani Tadka Wala,BTM Layout,3.5,100,150,North Indian
+696230,ITC Master Chef Creations,Dispensary Rd,4.0,4,650,North Indian
+696230,ITC Master Chef Creations,Dispensary Rd,4.0,4,650,Biryani
+232301,Mamata Biryani House,BTM Layout,2.2,20,500,Beverages
+232301,Mamata Biryani House,BTM Layout,2.2,20,500,Chinese
+273159,Say Cheese! Pizza,Koramangala,4.0,500,300,Pizzas
+273159,Say Cheese! Pizza,Koramangala,4.0,500,300,Italian
+589398,BIG BRO'S GRILL,Domlur,4.0,4,250,Fast Food
+589398,BIG BRO'S GRILL,Domlur,4.0,4,250,Juices
+280755,Khichdi Kahani,Indiranagar,3.5,100,200,Indian
+682723,Pasta House,BTM Layout,4.0,4,299,Fast Food
+584575,Ice Cafe and lassi shop,BTM Layout,4.0,4,200,Beverages
+584575,Ice Cafe and lassi shop,BTM Layout,4.0,4,200,Ice Cream
+668730,Eat N Drink,BTM Layout,4.0,4,150,Snacks
+668730,Eat N Drink,BTM Layout,4.0,4,150,Beverages
+382755,Savera Cafe,Shivaji Nagar,4.4,50,100,Snacks
+382755,Savera Cafe,Shivaji Nagar,4.4,50,100,Beverages
+688916,Warm Begin,Sanjay Nagar,4.0,4,150,Bakery
+423005,WEDEL FOOD,Indiranagar,3.8,20,200,Burgers
+423005,WEDEL FOOD,Indiranagar,3.8,20,200,Snacks
+298791,KABAB BIRYANI CORNER,Richmond Road,3.2,20,200,Indian
+298791,KABAB BIRYANI CORNER,Richmond Road,3.2,20,200,Tandoor
+429497,House of Chakna,BTM Layout,4.1,100,200,North Indian
+429497,House of Chakna,BTM Layout,4.1,100,200,Snacks
+453980,The Wing Story,Koramangala,2.3,20,200,Snacks
+453980,The Wing Story,Koramangala,2.3,20,200,Indian
+557615,Chats ki dukan,Sanjay Nagar,4.0,4,200,Street Food
+557615,Chats ki dukan,Sanjay Nagar,4.0,4,200,North Indian
+17632,Waffle Magic,Indiranagar,4.3,10000,200,Beverages
+17632,Waffle Magic,Indiranagar,4.3,10000,200,Desserts
+409544,Madras Meal Company,Koramangala,4.2,100,250,Chettinad
+409544,Madras Meal Company,Koramangala,4.2,100,250,South Indian
+454002,Kathi Club,Koramangala,4.0,4,100,Street Food
+454002,Kathi Club,Koramangala,4.0,4,100,Fast Food
+206569,Joe's Burgers and Shakes,Koramangala,3.7,20,200,Snacks
+513281,Bite That Sandwich,Kalyan Nagar,4.1,100,350,Continental
+513281,Bite That Sandwich,Kalyan Nagar,4.1,100,350,Snacks
+51101,Apsara Ice Creams,HSR Layout,4.6,5000,150,Ice Cream
+51101,Apsara Ice Creams,HSR Layout,4.6,5000,150,Desserts
+348812,Sandoitchi Kojo Authentic Japanese Sandwiches,HSR Layout,4.1,500,300,Juices
+348812,Sandoitchi Kojo Authentic Japanese Sandwiches,HSR Layout,4.1,500,300,Japanese
+696232,ITC Aashirvaad Soul Creations,Dispensary Rd,4.6,20,500,Indian
+109348,SLAY Coffee,Indiranagar,4.4,1000,200,Snacks
+109348,SLAY Coffee,Indiranagar,4.4,1000,200,Pastas
+124187,Kitchens of China,Bannerghatta Road,4.0,5000,450,Chinese
+124187,Kitchens of China,Bannerghatta Road,4.0,5000,450,Thai
+699759,HANUMA FOODS,Kalyan Nagar,4.0,4,300,Biryani
+699759,HANUMA FOODS,Kalyan Nagar,4.0,4,300,Thalis
+426100,The Bowl Magic,Indiranagar,4.0,4,300,Chinese
+426100,The Bowl Magic,Indiranagar,4.0,4,300,North Indian
+667943,House Of North,BTM Layout,4.0,4,399,Biryani
+667943,House Of North,BTM Layout,4.0,4,399,Indian
+633068,Gudbud Sundaes,Jayanagar,3.1,20,400,Desserts
+633068,Gudbud Sundaes,Jayanagar,3.1,20,400,Ice Cream
+339518,Rolls Street,Indiranagar,3.8,100,200,Snacks
+339518,Rolls Street,Indiranagar,3.8,100,200,Chinese
+695269,Cafe Juice day,Kalyan Nagar,4.0,4,200,Juices
+695269,Cafe Juice day,Kalyan Nagar,4.0,4,200,Fast Food
+557857,HOLY SCOOPS,Koramangala,4.0,4,200,Ice Cream
+557857,HOLY SCOOPS,Koramangala,4.0,4,200,Desserts
+110588,Rana vada pav,BTM Layout,3.5,500,100,Juices
+495463,Sardar Ji Di Rasoi,BTM Layout,2.8,20,350,North Indian
+495463,Sardar Ji Di Rasoi,BTM Layout,2.8,20,350,Snacks
+611634,Biryani & More,R.T. Nagar,4.0,4,300,Biryani
+611634,Biryani & More,R.T. Nagar,4.0,4,300,North Indian
+25645,Barista Coffee,Koramangala,3.9,1000,350,Beverages
+25645,Barista Coffee,Koramangala,3.9,1000,350,Snacks
+55438,Rolls Mania,St. Marks Road,3.9,1000,200,Indian
+520819,New York Waffles & Dinges,New Bel Road,3.6,50,300,Waffle
+520819,New York Waffles & Dinges,New Bel Road,3.6,50,300,Bakery
+614047,Italian BOB Pizza's,Indiranagar,4.0,20,600,Pizzas
+614047,Italian BOB Pizza's,Indiranagar,4.0,20,600,Italian
+405435,Bihar Babu,Basavanagudi,4.0,4,200,Punjabi
+405435,Bihar Babu,Basavanagudi,4.0,4,200,North Indian
+409784,Szechuan Delight,BTM Layout,4.4,100,350,Chinese
+409784,Szechuan Delight,BTM Layout,4.4,100,350,Asian
+35893,Just Bake - Cakes & confectioners,BTM Layout,4.2,10000,300,Desserts
+35893,Just Bake - Cakes & confectioners,BTM Layout,4.2,10000,300,Bakery
+601015,InChi,Koramangala,4.1,20,350,Asian
+601015,InChi,Koramangala,4.1,20,350,Chinese
+435856,Mama Keto Craves,Rajajinagar,4.5,100,300,Keto
+435856,Mama Keto Craves,Rajajinagar,4.5,100,300,Desserts
+466821,Scooby Cookhouse,BTM Layout,4.0,50,300,Continental
+466821,Scooby Cookhouse,BTM Layout,4.0,50,300,Italian
+112907,Bearfoot Bistro,Koramangala,4.2,500,300,Pizzas
+112907,Bearfoot Bistro,Koramangala,4.2,500,300,Continental
+483590,Mega Biryani,Koramangala,4.0,4,400,Biryani
+483590,Mega Biryani,Koramangala,4.0,4,400,Hyderabadi
+324100,Wokitchen,BTM Layout,4.0,50,350,Chinese
+324100,Wokitchen,BTM Layout,4.0,50,350,Pan-Asian
+170538,Side Dish,Indiranagar,3.8,500,200,Tandoor
+170538,Side Dish,Indiranagar,3.8,500,200,North Indian
+676615,Bussin' Fries,Kalyan Nagar,4.4,50,500,Fast Food
+415000,DustarKhwan,BTM Layout,4.0,4,350,Biryani
+415000,DustarKhwan,BTM Layout,4.0,4,350,Indian
+482456,La Fresca Pasta,Koramangala,4.0,100,600,Italian
+482456,La Fresca Pasta,Koramangala,4.0,100,600,Pastas
+684224,Bodypower Cafe,Indiranagar,4.2,100,450,Pastas
+684224,Bodypower Cafe,Indiranagar,4.2,100,450,Indian
+611631,Biryani Hub,R.T. Nagar,3.3,20,400,Biryani
+611631,Biryani Hub,R.T. Nagar,3.3,20,400,North Indian
+605163,The Sugar Free Keto Kafe - By Artinci,Koramangala,4.0,4,200,Ice Cream
+605163,The Sugar Free Keto Kafe - By Artinci,Koramangala,4.0,4,200,Keto
+667866,Chakna Express,Koramangala,4.5,50,100,Kebabs
+667866,Chakna Express,Koramangala,4.5,50,100,Snacks
+361852,Bowl kitchen,HSR Layout,3.3,20,250,Continental
+361852,Bowl kitchen,HSR Layout,3.3,20,250,North Indian
+374260,Big Bites,Koramangala,4.3,20,300,Street Food
+374260,Big Bites,Koramangala,4.3,20,300,Tex-Mex
+381540,GULSHAN KA DHABA,BTM Layout,3.0,50,150,Indian
+369406,Gourmet Ice Cream Cakes by Baskin Robbins,Malleshwaram,4.0,4,250,Ice Cream Cakes
+369406,Gourmet Ice Cream Cakes by Baskin Robbins,Malleshwaram,4.0,4,250,Desserts
+204777,Hungry Bird,BTM Layout,3.9,500,250,Andhra
+204777,Hungry Bird,BTM Layout,3.9,500,250,Biryani
+504628,SEA SPOON ( Costal cuisine ),BTM Layout,4.1,50,199,Seafood
+504628,SEA SPOON ( Costal cuisine ),BTM Layout,4.1,50,199,South Indian
+596752,Fruit Bae,Koramangala,3.8,100,199,Desserts
+596752,Fruit Bae,Koramangala,3.8,100,199,Ice Cream
+481851,Peppy Parathas & Rolls By Chai Point,Indiranagar,4.0,4,150,Bakery
+481851,Peppy Parathas & Rolls By Chai Point,Indiranagar,4.0,4,150,Beverages
+691815,The Curry House,BTM Layout,4.0,4,400,Indian
+380945,Simon Burgers,Kalyan Nagar,4.5,500,400,Burgers
+380945,Simon Burgers,Kalyan Nagar,4.5,500,400,Continental
+341300,BurgerHaus Gourmet Burgers,Koramangala,4.2,100,300,American
+341300,BurgerHaus Gourmet Burgers,Koramangala,4.2,100,300,Continental
+459782,White Mountain,Taiyaha Towers,4.1,20,200,Ice Cream
+459782,White Mountain,Taiyaha Towers,4.1,20,200,Desserts
+538696,Samosa Platter,Indiranagar,4.0,4,400,Snacks
+538696,Samosa Platter,Indiranagar,4.0,4,400,Street Food
+354888,Shahi Kitchens,Shivaji Nagar,3.7,20,300,Indian
+247113,RK CHINESE HUT,BTM Layout,2.7,50,400,Chinese
+537422,Night Hawks,Adugodi,4.0,4,200,North Indian
+537422,Night Hawks,Adugodi,4.0,4,200,Indian
+484380,Chaap Dilliwali,BTM Layout,4.0,4,300,North Indian
+484380,Chaap Dilliwali,BTM Layout,4.0,4,300,Indian
+564028,BRAINFREEZE SHAKES,Koramangala,3.7,20,200,Juices
+669607,Biristah - Biryani & Rolls,Kalyan Nagar,4.2,100,500,Biryani
+669607,Biristah - Biryani & Rolls,Kalyan Nagar,4.2,100,500,Bengali
+363180,Great Pizzas,Kalyan Nagar,2.7,100,300,Italian
+363180,Great Pizzas,Kalyan Nagar,2.7,100,300,Beverages
+663087,One Bite,Koramangala,4.0,4,150,Pizzas
+663087,One Bite,Koramangala,4.0,4,150,Bakery
+649399,Pulp Fiction,BTM Layout,4.4,20,200,Beverages
+649399,Pulp Fiction,BTM Layout,4.4,20,200,Juices
+135035,The Baklava Company,Kalyan Nagar,4.0,1000,350,Desserts
+135035,The Baklava Company,Kalyan Nagar,4.0,1000,350,Turkish
+627306,Boba Bhai Aur Bao Rani,Shivaji Nagar,2.4,50,200,Fast Food
+627306,Boba Bhai Aur Bao Rani,Shivaji Nagar,2.4,50,200,Desserts
+570801,Just Buns,BTM Layout,4.9,20,200,Fast Food
+570801,Just Buns,BTM Layout,4.9,20,200,Street Food
+698069,Maggi Point,Indiranagar,4.0,4,200,Snacks
+698069,Maggi Point,Indiranagar,4.0,4,200,Beverages
+697963,Knight Street,Kalyan Nagar,4.0,4,400,Snacks
+697963,Knight Street,Kalyan Nagar,4.0,4,400,Beverages
+623019,Bakeshop by Living Food,Arekere,4.0,4,300,Bakery
+56991,Brownie Heaven,Indiranagar,4.3,1000,300,Desserts
+56991,Brownie Heaven,Indiranagar,4.3,1000,300,Snacks
+407962,Rich Sandwich,BTM Layout,4.0,4,300,Fast Food
+407962,Rich Sandwich,BTM Layout,4.0,4,300,Combo
+523371,Irani Std. Tea,Indiranagar,4.0,4,400,Healthy Food
+523371,Irani Std. Tea,Indiranagar,4.0,4,400,Keto
+204587,Burnout Cafe,MS Towers,4.0,4,200,Continental
+204587,Burnout Cafe,MS Towers,4.0,4,200,Chinese
+695412,R R Kitchen's,BTM Layout,4.0,4,500,Indian
+695412,R R Kitchen's,BTM Layout,4.0,4,500,Biryani
+536821,Living Bowls,Koramangala,4.2,500,350,Salads
+536821,Living Bowls,Koramangala,4.2,500,350,Keto
+564040,CRAZY WINGS,Koramangala,4.0,4,300,American
+425420,Dr.Shakes,Indiranagar,4.1,20,250,Beverages
+664470,Espressoulster Coffee,Koramangala,4.0,4,499,Beverages
+664470,Espressoulster Coffee,Koramangala,4.0,4,499,Bakery
+320678,TIPSY CAFE,Central Bangalore,3.4,50,250,Desserts
+320678,TIPSY CAFE,Central Bangalore,3.4,50,250,Ice Cream
+201156,PVR Cafe,Malleshwaram,3.7,100,400,Snacks
+201156,PVR Cafe,Malleshwaram,3.7,100,400,Fast Food
+423615,Pancakes by Knight Bite,BTM Layout,4.0,4,200,American
+423615,Pancakes by Knight Bite,BTM Layout,4.0,4,200,Desserts
+615879,Mega Momo,BTM Layout,4.0,4,200,Chinese
+615879,Mega Momo,BTM Layout,4.0,4,200,Italian
+258287,The Daily Meal,Halasuru,3.8,20,250,Indian
+337566,deli2go,Vasanth Nagar,4.0,4,300,Snacks
+663759,Wok Smoke,Indiranagar,4.6,20,250,Chinese
+663759,Wok Smoke,Indiranagar,4.6,20,250,Tibetan
+417929,Munchous Cafe,BTM Layout,4.0,4,300,Chinese
+417929,Munchous Cafe,BTM Layout,4.0,4,300,Italian
+400866,Papacream,Indiranagar,4.7,50,350,Ice Cream
+400866,Papacream,Indiranagar,4.7,50,350,Desserts
+663652,Fruit Kick,BTM Layout,4.0,4,150,Beverages
+206511,Tasty Stuff,Koramangala,2.9,50,200,Chinese
+206511,Tasty Stuff,Koramangala,2.9,50,200,Street Food
+430088,Saravana bhavan hotel,Koramangala,4.0,4,150,South Indian
+659532,Foodx Restaurant,Kalyan Nagar,4.0,4,500,North Indian
+659532,Foodx Restaurant,Kalyan Nagar,4.0,4,500,Chinese
+287934,Roll-a-Pao,Ashok Nagar,4.0,4,450,Indian
+530939,Pizzas and Pastas - By Chef Sunny,BTM Layout,4.0,4,500,Pizzas
+530939,Pizzas and Pastas - By Chef Sunny,BTM Layout,4.0,4,500,Pastas
+558252,JUST CREAMERY - Healthy Ice Cream,Koramangala,3.4,20,200,Keto
+558252,JUST CREAMERY - Healthy Ice Cream,Koramangala,3.4,20,200,Healthy Food
+547118,The Kathi Co,Koramangala,4.0,4,300,North Indian
+547118,The Kathi Co,Koramangala,4.0,4,300,Street Food
+433363,Celebration Special by CakeZone,Indiranagar,3.9,100,300,Desserts
+433363,Celebration Special by CakeZone,Indiranagar,3.9,100,300,Snacks
+41321,Green G Juice Bar,Indiranagar,4.2,1000,200,Beverages
+41321,Green G Juice Bar,Indiranagar,4.2,1000,200,Continental
+256746,The Daily Bowl,Indiranagar,4.1,20,250,Indian
+676540,Wonton House,Koramangala,4.0,4,350,Chinese
+692373,The Great London  Burger,Indiranagar,4.0,4,250,Fast Food
+692373,The Great London  Burger,Indiranagar,4.0,4,250,Street Food
+652955,BK Cafe,Indiranagar,4.0,4,350,American
+652955,BK Cafe,Indiranagar,4.0,4,350,Cafe
+17064,The Chocolate Heaven,Kalyan Nagar,3.4,5000,400,Desserts
+17064,The Chocolate Heaven,Kalyan Nagar,3.4,5000,400,Beverages
+709386,Sana Kitchen,Rajajinagar,4.0,4,300,Biryani
+709386,Sana Kitchen,Rajajinagar,4.0,4,300,Chinese
+662429,Grillyard,Kalyan Nagar,4.0,4,350,Fast Food
+662429,Grillyard,Kalyan Nagar,4.0,4,350,Biryani
+601076,Cafe X7,HSR Layout,4.0,4,300,Beverages
+667952,New Wok World,BTM Layout,4.0,4,399,Beverages
+667952,New Wok World,BTM Layout,4.0,4,399,Snacks
+442797,Master Canteen,BTM Layout,4.0,4,300,Indian
+442797,Master Canteen,BTM Layout,4.0,4,300,Chinese
+588392,Weedustan Cafe,BTM Layout,4.0,4,250,Fast Food
+588392,Weedustan Cafe,BTM Layout,4.0,4,250,Snacks
+417897,Gangtok Express,Koramangala,4.2,100,350,Tibetan
+417897,Gangtok Express,Koramangala,4.2,100,350,Chinese
+557858,FROSTED MEMORIES,Koramangala,4.0,4,200,Ice Cream
+557858,FROSTED MEMORIES,Koramangala,4.0,4,200,Desserts
+557856,TWO DUDES AND A DEEP FRYER,Koramangala,4.0,4,200,Snacks
+557856,TWO DUDES AND A DEEP FRYER,Koramangala,4.0,4,200,Italian
+557823,CHIP N DIP,Koramangala,3.6,20,200,Snacks
+557823,CHIP N DIP,Koramangala,3.6,20,200,Italian
+692288,Shakes 99,Indiranagar,4.0,4,200,Beverages
+692611,Spices Of Penna,Kalyan Nagar,4.0,4,300,North Indian
+692611,Spices Of Penna,Kalyan Nagar,4.0,4,300,Biryani
+549127,Minus 30,Old Airport Road,5.0,20,250,Ice Cream
+281223,The Paratha House,BTM Layout,3.1,50,350,Indian
+281223,The Paratha House,BTM Layout,3.1,50,350,Chinese
+574565,Nomou Vegan Ice Cream,Indiranagar,4.0,4,250,Ice Cream
+677302,Ganapati Andhra kitchen,HSR Layout,4.0,4,100,South Indian
+677302,Ganapati Andhra kitchen,HSR Layout,4.0,4,100,Chinese
+437418,Boss rolls and sandwhices,Mathikere,3.0,100,200,Fast Food
+437418,Boss rolls and sandwhices,Mathikere,3.0,100,200,Italian
+436575,JST POPCORN,Bannerghatta Road,4.0,100,150,Snacks
+613769,Char Minar Biryani,Koramangala,4.2,20,250,Biryani
+702130,Bombay Burgers,Indiranagar,4.0,4,800,Burgers
+702130,Bombay Burgers,Indiranagar,4.0,4,800,Snacks
+397353,LONDON DAIRY,Indiranagar,4.0,4,280,Ice Cream
+513171,Your Daily Sandwich,Kalyan Nagar,4.0,4,350,North Indian
+513171,Your Daily Sandwich,Kalyan Nagar,4.0,4,350,Indian
+647703,Puliyogare Company,Indiranagar,4.0,4,200,South Indian
+647703,Puliyogare Company,Indiranagar,4.0,4,200,Desserts
+585893,Touchings Adda,Koramangala,4.0,4,400,North Indian
+585893,Touchings Adda,Koramangala,4.0,4,400,Chinese
+692970,China Toss,R.T. Nagar,4.0,4,300,Chinese
+692970,China Toss,R.T. Nagar,4.0,4,300,Fast Food
+692972,KimLing,R.T. Nagar,4.0,4,300,Chinese
+692972,KimLing,R.T. Nagar,4.0,4,300,Fast Food
+670946,Paratha Town,HSR Layout,4.0,4,200,Indian
+355971,Stonelicious,Old Madras Road,4.4,100,250,Desserts
+355971,Stonelicious,Old Madras Road,4.4,100,250,Ice Cream
+692968,Chang's Kitchen,R.T. Nagar,4.0,4,300,Chinese
+692968,Chang's Kitchen,R.T. Nagar,4.0,4,300,Fast Food
+697186,Deccan Biryani Limited,Indiranagar,4.0,4,200,Biryani
+436703,Kachori Chowk,Koramangala,4.1,20,400,Rajasthani
+436703,Kachori Chowk,Koramangala,4.1,20,400,North Indian
+698894,Rolls World,Koramangala,4.0,4,300,Pizzas
+698894,Rolls World,Koramangala,4.0,4,300,Beverages
+409799,Mandarin Restaurant,BTM Layout,4.5,100,350,Asian
+409799,Mandarin Restaurant,BTM Layout,4.5,100,350,Chinese
+695127,Dragon Wings Kitchen,Central Bangalore,4.0,4,600,Indian
+489477,the food cart,BTM Layout,4.0,4,300,North Indian
+489477,the food cart,BTM Layout,4.0,4,300,Biryani
+630429,Dr. Carrot,HSR Layout,4.0,4,400,Juices
+630429,Dr. Carrot,HSR Layout,4.0,4,400,Beverages
+242507,Wicked Brownies,Koramangala,3.8,50,200,Bakery
+242507,Wicked Brownies,Koramangala,3.8,50,200,Beverages
+421661,Jeet Panjabi Dabha,New BEL Road,3.1,20,200,Indian
+421661,Jeet Panjabi Dabha,New BEL Road,3.1,20,200,Chinese
+690967,Sassy Grub Box,BTM Layout,4.0,4,400,North Indian
+690967,Sassy Grub Box,BTM Layout,4.0,4,400,Fast Food
+30586,IceBreakers Ice Creams,Koramangala,3.9,1000,350,Ice Cream
+30586,IceBreakers Ice Creams,Koramangala,3.9,1000,350,Desserts
+293261,Orchid by Fortune Park JP Celestial,Gandhi Nagar,4.0,4,1800,Biryani
+293261,Orchid by Fortune Park JP Celestial,Gandhi Nagar,4.0,4,1800,Indian
+677736,Toasted Delight,BTM Layout,4.6,20,350,Indian
+677736,Toasted Delight,BTM Layout,4.6,20,350,Desserts
+667966,Scoops And Spoons,BTM Layout,4.0,4,199,Beverages
+696010,SWIRLYO,Indiranagar,4.0,4,250,Desserts
+696010,SWIRLYO,Indiranagar,4.0,4,250,Beverages
+186756,Tasty Foods,Yeshwantpur,2.7,20,250,Indian
+186756,Tasty Foods,Yeshwantpur,2.7,20,250,Chinese
+662618,The Belgian Waffle Addicts,Koramangala,4.0,4,199,Beverages
+662618,The Belgian Waffle Addicts,Koramangala,4.0,4,199,Ice Cream
+487443,Bowl of China,Indiranagar,4.0,4,300,Chinese
+19172,30 Square,Koramangala,4.0,1000,300,Chinese
+703958,Grub Monkeys,Koramangala,4.0,4,299,Fast Food
+703958,Grub Monkeys,Koramangala,4.0,4,299,Snacks
+11211,Taco Bell,SJR Junction Building,4.3,10000,300,Mexican
+703900,Richys,Indiranagar,4.0,4,500,North Indian
+703900,Richys,Indiranagar,4.0,4,500,Chinese
+685307,Bangaliana,Koramangala,4.4,50,500,Bengali
+685307,Bangaliana,Koramangala,4.4,50,500,Biryani
+478711,Iceberg Sandwich,BTM Layout,3.6,20,250,Snacks
+478711,Iceberg Sandwich,BTM Layout,3.6,20,250,Beverages
+369071,Heaven's Cakes,Kalyan Nagar,4.1,100,300,Bakery
+369071,Heaven's Cakes,Kalyan Nagar,4.1,100,300,Desserts
+671119,Box Stories,HSR Layout,4.0,4,200,North Indian
+454757,Puliyogare Palace,Indiranagar,2.7,100,250,Desserts
+454757,Puliyogare Palace,Indiranagar,2.7,100,250,Bakery
+392688,The Blue bawarchi restaurant(odia and Bengali food,Indiranagar,3.6,100,300,Bengali
+392688,The Blue bawarchi restaurant(odia and Bengali food,Indiranagar,3.6,100,300,Oriya
+405384,New Cake Of The Day,Sanjay Nagar,3.2,20,300,Desserts
+405384,New Cake Of The Day,Sanjay Nagar,3.2,20,300,Beverages
+432910,Ludos Pizza,Indiranagar,4.0,4,300,Pizzas
+278580,The Wooden Spoon,Koramangala,4.0,100,400,Chinese
+278580,The Wooden Spoon,Koramangala,4.0,100,400,Pan-Asian
+669078,Waffster,Kalyan Nagar,4.0,4,150,Waffle
+669078,Waffster,Kalyan Nagar,4.0,4,150,Bakery
+692424,Nh 65,Kalyan Nagar,4.0,4,300,Indian
+160073,Dorothy's Kitchen,BTM Layout,2.2,100,300,Biryani
+160073,Dorothy's Kitchen,BTM Layout,2.2,100,300,North Indian
+677023,Desi Burger Wala,BTM Layout,4.0,4,250,Burgers
+677023,Desi Burger Wala,BTM Layout,4.0,4,250,Fast Food
+564026,BOMBAY SANDWICH CO,Koramangala,2.5,20,200,Snacks
+429531,Burger Queen,Sarvagna Nagar,3.4,20,300,American
+414044,Hungry Food,BTM Layout,4.0,4,250,North Indian
+414044,Hungry Food,BTM Layout,4.0,4,250,Biryani
+546844,Get Fit with Sunny!,BTM Layout,4.0,50,500,Italian
+546844,Get Fit with Sunny!,BTM Layout,4.0,50,500,Fast Food
+662819,Sandwich Hub,BTM Layout,4.0,4,200,Indian
+214959,The Golden Bowl,Halasuru,3.9,1000,200,Indian
+214959,The Golden Bowl,Halasuru,3.9,1000,200,North Indian
+620795,Chai Theatre,Koramangala,4.0,4,350,Fast Food
+423197,Andhra Meal Company,Indiranagar,3.5,100,200,South Indian
+423197,Andhra Meal Company,Indiranagar,3.5,100,200,Home Food
+249841,ASIAN BOWL,BTM Layout,4.2,1000,250,Chinese
+249841,ASIAN BOWL,BTM Layout,4.2,1000,250,Coastal
+641019,Miami Waffles & Jawbreakers,New Bel Road,4.0,4,200,Waffle
+641019,Miami Waffles & Jawbreakers,New Bel Road,4.0,4,200,Desserts
+520806,Panda Momos,New Bel Road,3.8,20,200,Asian
+520806,Panda Momos,New Bel Road,3.8,20,200,Tibetan
+692632,FALAFEL HOUSE,Kalyan Nagar,4.0,4,300,Indian
+692632,FALAFEL HOUSE,Kalyan Nagar,4.0,4,300,Arabian
