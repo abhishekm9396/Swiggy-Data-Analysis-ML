@@ -10,23 +10,24 @@ To collect data from the food delivery platform SWIGGY using web scraping and an
 
 
 --Methodolgy--
-
+<br>
+<br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/126942017/250129574-1d32e689-ee95-4fd5-a765-3260bf27d0ce.png" width="500" height="300" />
-
-![image](https://github.com/abhishekm9396/Swiggy-Data-Analysis-ML/assets/126942017/8f1e59fb-cfe7-42bb-b541-0e787f81f068)
-![image](https://github.com/abhishekm9396/Swiggy-Data-Analysis-ML/assets/126942017/c4b1eaf9-1c09-4f28-863f-39bd9738d98e)
-
-
-
+    <img src="https://user-images.githubusercontent.com/126942017/250167228-8f1e59fb-cfe7-42bb-b541-0e787f81f068.png" width="600" height="300" />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250167287-c4b1eaf9-1c09-4f28-863f-39bd9738d98e.png" width="600" height="300" />
+    
+<br>
+<br>
 
 
 --Webpage--
-
+<br>
+<br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/126942017/250131305-dd6d4e1f-97a1-49b6-a7c3-88e54c1028fc.png" width="600" height="300" />
-
-
+    <img src="https://user-images.githubusercontent.com/126942017/250131305-dd6d4e1f-97a1-49b6-a7c3-88e54c1028fc.png" width="700" height="400" />
+<br>
+<br>
 
 --Conclusion--
 
