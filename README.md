@@ -9,13 +9,32 @@ To collect data from the food delivery platform SWIGGY using web scraping and an
 
 
 ## Methodolgy
-<br>
+
+- Web Scraping: Collecting data from Swiggy website web scraping tool like BeautifulSoup.
+
+
+- Data Cleaning: Removing irrelevant data and correcting inconsistencies, such as missing values, incorrect data types, or duplicate entries.
+
+- Data Transformation: Converting data into a format that is suitable for analysis, such as aggregating or summarizing data, or transforming data into a standard format.
+
+- Data Integration: Combining data from multiple sources, such as Swiggy website and social media platforms, to create a single dataset for analysis.
+
+- Data Reduction: Reducing the size of the dataset to improve computational efficiency, such as by sampling or filtering out irrelevant data.
+
+- Data Normalization: Scaling the data to a standard range to make the data comparable across different features.
+
+- Feature Extraction: Identifying and extracting relevant features from the data, such as customer reviews, ratings, order details, and location data.
+
+- Data Visualization: Creating visualizations to explore the data and identify patterns or trends, such as bar charts, scatter plots, or heatmaps.
+
+- Data Analysis: Applying statistical or machine learning techniques to the data to generate insights, such as identifying popular cuisines, prices, and customer preferences.
 <br>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/126942017/250167228-8f1e59fb-cfe7-42bb-b541-0e787f81f068.png" width="500" height="280" />
+</p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/126942017/250167287-c4b1eaf9-1c09-4f28-863f-39bd9738d98e.png" width="500" height="280" />
-    
+</p>  
 <br>
 <br>
 
