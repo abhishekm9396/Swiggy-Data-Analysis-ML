@@ -18,9 +18,10 @@ To collect data from the food delivery platform SWIGGY using web scraping and an
 ![image](https://github.com/abhishekm9396/Swiggy-Data-Analysis-ML/assets/126942017/dd6d4e1f-97a1-49b6-a7c3-88e54c1028fc)
 
 
---Results--
+--Conclusion--
 
-Through data visualization, the project presents the findings in a visually engaging manner, using charts, graphs, and maps. These visual representations help to understand the patterns, trends, and disparities related to Covid-19, enabling stakeholders to make informed decisions and develop appropriate response measures.
+Created machine learning recommendation model can help restaurant owners open a successful restaurant in Bangalore by considering cuisine, location, and price recommendations. With this model, both seasoned restaurateurs and first-time entrepreneurs can benefit from valuable insights
+
 
 
 --Challenges Faced--
