@@ -30,12 +30,10 @@ To collect data from the food delivery platform SWIGGY using web scraping and an
 - Data Analysis: Applying statistical or machine learning techniques to the data to generate insights, such as identifying popular cuisines, prices, and customer preferences.
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/126942017/250167228-8f1e59fb-cfe7-42bb-b541-0e787f81f068.png" width="500" height="280" />
-</p>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/126942017/250167287-c4b1eaf9-1c09-4f28-863f-39bd9738d98e.png" width="500" height="280" />
+    <img src="https://user-images.githubusercontent.com/126942017/250167228-8f1e59fb-cfe7-42bb-b541-0e787f81f068.png" width="500" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/126942017/250167287-c4b1eaf9-1c09-4f28-863f-39bd9738d98e.png" width="500" />
 </p>  
-<br>
 <br>
 
 
