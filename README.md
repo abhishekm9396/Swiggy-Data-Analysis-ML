@@ -3,6 +3,20 @@
 
 "Swiggy-Data-Analysis" is a data analysis project involved data scraping from the food delivery site Swiggy, extracting some valuable business insights and making a ML model. The project aims to analyze and visualize Swiggy data and build a ML model based on cuisine, price, and location.
 
+<br>
+
+##  Data Description
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Cleaned Dataset IPYNB** | This file contains the ipynb code of the data cleaning part. |
+| **ML Model IPYNB** | This file contains the ipynb code of the created ML Model. |
+| **Scraper (1)**  | This file contains the ipynb code of the steps followed to scrape the data. |
+| **Cleaned Dataset Final**  | This is the excel worksheet with cleaned data. |
+| **Scraped Data**  | This is the excel worksheet with all the extracted data. |
+| **Swiggy Restaurant Data HTML**  | This is the downloaded HTML page with all the restaurant located in Benglore. |
+<br>
+
 ## Goal
 
 To collect data from the food delivery platform SWIGGY using web scraping and analyze the data to generate insights and recommendations for the end user. This may involve analyzing restaurant information, such as ratings, cuisine, and pricing.
